@@ -50,7 +50,7 @@ For each 1 Hz epoch, the program performs the following steps:
    - altitude
 7. Estimate receiver velocity from the position difference between consecutive epochs.
 8. Smooth the velocity using an exponential moving average.
-9. Save the valid solutions to CSV and KML. :contentReference[oaicite:4]{index=4}
+9. Save the valid solutions to CSV and KML.
 
 ---
 
