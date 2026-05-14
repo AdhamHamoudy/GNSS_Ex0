@@ -1,0 +1,2681 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2">
+    <Document id="1">
+        <Style id="536">
+            <LineStyle id="537">
+                <color>ff0000ff</color>
+                <colorMode>normal</colorMode>
+                <width>3</width>
+            </LineStyle>
+        </Style>
+        <Placemark id="3">
+            <name>15:18:05</name>
+            <description>UTC: 2026-03-21 15:18:05
+Satellites used: 7
+Speed: 0.0 m/s  (0.0 km/h)</description>
+            <Point id="2">
+                <coordinates>34.81315960404318,32.16886575602504,86.5311263770873</coordinates>
+                <altitudeMode>absolute</altitudeMode>
+            </Point>
+        </Placemark>
+        <Placemark id="5">
+            <name>15:18:06</name>
+            <description>UTC: 2026-03-21 15:18:06
+Satellites used: 7
+Speed: 6.7 m/s  (24.2 km/h)</description>
+            <Point id="4">
+                <coordinates>34.81310359702675,32.16872228982011,87.35204507701619</coordinates>
+                <altitudeMode>absolute</altitudeMode>
+            </Point>
+        </Placemark>
+        <Placemark id="7">
+            <name>15:18:07</name>
+            <description>UTC: 2026-03-21 15:18:07
+Satellites used: 6
+Speed: 14.1 m/s  (50.6 km/h)</description>
+            <Point id="6">
+                <coordinates>34.8132739911183,32.16883180616522,54.24715062295756</coordinates>
+                <altitudeMode>absolute</altitudeMode>
+            </Point>
+        </Placemark>
+        <Placemark id="9">
+            <name>15:18:08</name>
+            <description>UTC: 2026-03-21 15:18:08
+Satellites used: 6
+Speed: 6.6 m/s  (23.8 km/h)</description>
+            <Point id="8">
+                <coordinates>34.813203937750714,32.168803161102716,57.424789429065726</coordinates>
+                <altitudeMode>absolute</altitudeMode>
+            </Point>
+        </Placemark>
+        <Placemark id="11">
+            <name>15:18:09</name>
+            <description>UTC: 2026-03-21 15:18:09
+Satellites used: 6
+Speed: 8.2 m/s  (29.6 km/h)</description>
+            <Point id="10">
+                <coordinates>34.813203529411595,32.1687496059145,47.88670861251603</coordinates>
+                <altitudeMode>absolute</altitudeMode>
+            </Point>
+        </Placemark>
+        <Placemark id="13">
+            <name>15:18:10</name>
+            <description>UTC: 2026-03-21 15:18:10
+Satellites used: 6
+Speed: 17.1 m/s  (61.6 km/h)</description>
+            <Point id="12">
+                <coordinates>34.81309978836618,32.16867387620766,19.693480779189276</coordinates>
+                <altitudeMode>absolute</altitudeMode>
+            </Point>
+        </Placemark>
+        <Placemark id="15">
+            <name>15:18:11</name>
+            <description>UTC: 2026-03-21 15:18:11
+Satellites used: 6
+Speed: 5.9 m/s  (21.2 km/h)</description>
+            <Point id="14">
+                <coordinates>34.81304800516455,32.16871137856444,53.327313258494414</coordinates>
+                <altitudeMode>absolute</altitudeMode>
+            </Point>
+        </Placemark>
+        <Placemark id="17">
+            <name>15:18:12</name>
+            <description>UTC: 2026-03-21 15:18:12
+Satellites used: 5
+Speed: 5.9 m/s  (21.4 km/h)</description>
+            <Point id="16">
+                <coordinates>34.81308942183279,32.1687836697119,60.82711815615466</coordinates>
+                <altitudeMode>absolute</altitudeMode>
+            </Point>
+        </Placemark>
+        <Placemark id="19">
+            <name>15:18:13</name>
+            <description>UTC: 2026-03-21 15:18:13
+Satellites used: 5
+Speed: 9.8 m/s  (35.1 km/h)</description>
+            <Point id="18">
+                <coordinates>34.81292221781881,32.16889003952043,45.00312925203564</coordinates>
+                <altitudeMode>absolute</altitudeMode>
+            </Point>
+        </Placemark>
+        <Placemark id="21">
+            <name>15:18:14</name>
+            <description>UTC: 2026-03-21 15:18:14
+Satellites used: 5
+Speed: 6.0 m/s  (21.5 km/h)</description>
+            <Point id="20">
+                <coordinates>34.81290984609668,32.16888092369795,44.98528861844324</coordinates>
+                <altitudeMode>absolute</altitudeMode>
+            </Point>
+        </Placemark>
+        <Placemark id="23">
+            <name>15:18:15</name>
+            <description>UTC: 2026-03-21 15:18:15
+Satellites used: 6
+Speed: 6.1 m/s  (21.8 km/h)</description>
+            <Point id="22">
+                <coordinates>34.812871319787234,32.1687543895243,41.810083099587004</coordinates>
+                <altitudeMode>absolute</altitudeMode>
+            </Point>
+        </Placemark>
+        <Placemark id="25">
+            <name>15:18:16</name>
+            <description>UTC: 2026-03-21 15:18:16
+Satellites used: 6
+Speed: 6.2 m/s  (22.5 km/h)</description>
+            <Point id="24">
+                <coordinates>34.81284601961971,32.16887165461943,34.89400001066714</coordinates>
+                <altitudeMode>absolute</altitudeMode>
+            </Point>
+        </Placemark>
+        <Placemark id="27">
+            <name>15:18:17</name>
+            <description>UTC: 2026-03-21 15:18:17
+Satellites used: 7
+Speed: 18.9 m/s  (67.9 km/h)</description>
+            <Point id="26">
+                <coordinates>34.812648134835506,32.168626817224904,7.4070795684426995</coordinates>
+                <altitudeMode>absolute</altitudeMode>
+            </Point>
+        </Placemark>
+        <Placemark id="29">
+            <name>15:18:18</name>
+            <description>UTC: 2026-03-21 15:18:18
+Satellites used: 7
+Speed: 7.7 m/s  (27.6 km/h)</description>
+            <Point id="28">
+                <coordinates>34.8126642934116,32.1687878029279,41.30240943277588</coordinates>
+                <altitudeMode>absolute</altitudeMode>
+            </Point>
+        </Placemark>
+        <Placemark id="31">
+            <name>15:18:19</name>
+            <description>UTC: 2026-03-21 15:18:19
+Satellites used: 7
+Speed: 10.9 m/s  (39.1 km/h)</description>
+            <Point id="30">
+                <coordinates>34.81261682730702,32.168929978289256,49.0307616443008</coordinates>
+                <altitudeMode>absolute</altitudeMode>
+            </Point>
+        </Placemark>
+        <Placemark id="33">
+            <name>15:18:20</name>
+            <description>UTC: 2026-03-21 15:18:20
+Satellites used: 7
+Speed: 13.2 m/s  (47.6 km/h)</description>
+            <Point id="32">
+                <coordinates>34.812445436037684,32.16867087367248,24.344449116986173</coordinates>
+                <altitudeMode>absolute</altitudeMode>
+            </Point>
+        </Placemark>
+        <Placemark id="35">
+            <name>15:18:21</name>
+            <description>UTC: 2026-03-21 15:18:21
+Satellites used: 7
+Speed: 13.8 m/s  (49.7 km/h)</description>
+            <Point id="34">
+                <coordinates>34.81242763142129,32.16892417603574,58.70804714118045</coordinates>
+                <altitudeMode>absolute</altitudeMode>
+            </Point>
+        </Placemark>
+        <Placemark id="37">
+            <name>15:18:22</name>
+            <description>UTC: 2026-03-21 15:18:22
+Satellites used: 7
+Speed: 12.8 m/s  (46.2 km/h)</description>
+            <Point id="36">
+                <coordinates>34.81234657267469,32.16890733725583,69.32718149344306</coordinates>
+                <altitudeMode>absolute</altitudeMode>
+            </Point>
+        </Placemark>
+        <Placemark id="39">
+            <name>15:18:23</name>
+            <description>UTC: 2026-03-21 15:18:23
+Satellites used: 7
+Speed: 26.4 m/s  (95.1 km/h)</description>
+            <Point id="38">
+                <coordinates>34.81208385557126,32.16862070505499,4.591315406334162</coordinates>
+                <altitudeMode>absolute</altitudeMode>
+            </Point>
+        </Placemark>
+        <Placemark id="41">
+            <name>15:18:24</name>
+            <description>UTC: 2026-03-21 15:18:24
+Satellites used: 8
+Speed: 5.2 m/s  (18.6 km/h)</description>
+            <Point id="40">
+                <coordinates>34.81235897280412,32.16874495891846,45.9172139120083</coordinates>
+                <altitudeMode>absolute</altitudeMode>
+            </Point>
+        </Placemark>
+        <Placemark id="43">
+            <name>15:18:25</name>
+            <description>UTC: 2026-03-21 15:18:25
+Satellites used: 6
+Speed: 16.4 m/s  (59.1 km/h)</description>
+            <Point id="42">
+                <coordinates>34.81214795715768,32.1688956555474,72.94772438814775</coordinates>
+                <altitudeMode>absolute</altitudeMode>
+            </Point>
+        </Placemark>
+        <Placemark id="45">
+            <name>15:18:26</name>
+            <description>UTC: 2026-03-21 15:18:26
+Satellites used: 6
+Speed: 16.0 m/s  (57.6 km/h)</description>
+            <Point id="44">
+                <coordinates>34.811901949285215,32.168675846516685,36.47176724296996</coordinates>
+                <altitudeMode>absolute</altitudeMode>
+            </Point>
+        </Placemark>
+        <Placemark id="47">
+            <name>15:18:27</name>
+            <description>UTC: 2026-03-21 15:18:27
+Satellites used: 6
+Speed: 9.8 m/s  (35.2 km/h)</description>
+            <Point id="46">
+                <coordinates>34.8118920685015,32.16871730961415,34.340398482335736</coordinates>
+                <altitudeMode>absolute</altitudeMode>
+            </Point>
+        </Placemark>
+        <Placemark id="49">
+            <name>15:18:28</name>
+            <description>UTC: 2026-03-21 15:18:28
+Satellites used: 8
+Speed: 8.2 m/s  (29.5 km/h)</description>
+            <Point id="48">
+                <coordinates>34.811869390543706,32.16886267383136,46.26037957855977</coordinates>
+                <altitudeMode>absolute</altitudeMode>
+            </Point>
+        </Placemark>
+        <Placemark id="51">
+            <name>15:18:29</name>
+            <description>UTC: 2026-03-21 15:18:29
+Satellites used: 8
+Speed: 9.4 m/s  (34.0 km/h)</description>
+            <Point id="50">
+                <coordinates>34.81182171594736,32.16892171958092,56.22408526203938</coordinates>
+                <altitudeMode>absolute</altitudeMode>
+            </Point>
+        </Placemark>
+        <Placemark id="53">
+            <name>15:18:30</name>
+            <description>UTC: 2026-03-21 15:18:30
+Satellites used: 8
+Speed: 11.6 m/s  (41.9 km/h)</description>
+            <Point id="52">
+                <coordinates>34.81179756308972,32.16896278462242,72.26552116518648</coordinates>
+                <altitudeMode>absolute</altitudeMode>
+            </Point>
+        </Placemark>
+        <Placemark id="55">
+            <name>15:18:31</name>
+            <description>UTC: 2026-03-21 15:18:31
+Satellites used: 7
+Speed: 2.9 m/s  (10.6 km/h)</description>
+            <Point id="54">
+                <coordinates>34.811826815655095,32.168913263947395,51.971110992922775</coordinates>
+                <altitudeMode>absolute</altitudeMode>
+            </Point>
+        </Placemark>
+        <Placemark id="57">
+            <name>15:18:32</name>
+            <description>UTC: 2026-03-21 15:18:32
+Satellites used: 7
+Speed: 2.0 m/s  (7.3 km/h)</description>
+            <Point id="56">
+                <coordinates>34.811824603464906,32.168915288980756,59.830284083462615</coordinates>
+                <altitudeMode>absolute</altitudeMode>
+            </Point>
+        </Placemark>
+        <Placemark id="59">
+            <name>15:18:33</name>
+            <description>UTC: 2026-03-21 15:18:33
+Satellites used: 8
+Speed: 6.5 m/s  (23.3 km/h)</description>
+            <Point id="58">
+                <coordinates>34.81185098987989,32.168964454139086,72.03067548662207</coordinates>
+                <altitudeMode>absolute</altitudeMode>
+            </Point>
+        </Placemark>
+        <Placemark id="61">
+            <name>15:18:34</name>
+            <description>UTC: 2026-03-21 15:18:34
+Satellites used: 7
+Speed: 6.1 m/s  (22.1 km/h)</description>
+            <Point id="60">
+                <coordinates>34.811912289116584,32.16903168877728,71.23704133734337</coordinates>
+                <altitudeMode>absolute</altitudeMode>
+            </Point>
+        </Placemark>
+        <Placemark id="63">
+            <name>15:18:35</name>
+            <description>UTC: 2026-03-21 15:18:35
+Satellites used: 8
+Speed: 8.1 m/s  (29.1 km/h)</description>
+            <Point id="62">
+                <coordinates>34.81186548175128,32.168977501135615,46.20797600094338</coordinates>
+                <altitudeMode>absolute</altitudeMode>
+            </Point>
+        </Placemark>
+        <Placemark id="65">
+            <name>15:18:36</name>
+            <description>UTC: 2026-03-21 15:18:36
+Satellites used: 7
+Speed: 9.1 m/s  (32.7 km/h)</description>
+            <Point id="64">
+                <coordinates>34.8119158766833,32.1690637401979,38.47917124699311</coordinates>
+                <altitudeMode>absolute</altitudeMode>
+            </Point>
+        </Placemark>
+        <Placemark id="67">
+            <name>15:18:37</name>
+            <description>UTC: 2026-03-21 15:18:37
+Satellites used: 7
+Speed: 6.3 m/s  (22.7 km/h)</description>
+            <Point id="66">
+                <coordinates>34.81187259533823,32.16902678711782,34.82635078122112</coordinates>
+                <altitudeMode>absolute</altitudeMode>
+            </Point>
+        </Placemark>
+        <Placemark id="69">
+            <name>15:18:38</name>
+            <description>UTC: 2026-03-21 15:18:38
+Satellites used: 8
+Speed: 6.4 m/s  (23.2 km/h)</description>
+            <Point id="68">
+                <coordinates>34.81185365833238,32.16913044606319,53.76593055382514</coordinates>
+                <altitudeMode>absolute</altitudeMode>
+            </Point>
+        </Placemark>
+        <Placemark id="71">
+            <name>15:18:39</name>
+            <description>UTC: 2026-03-21 15:18:39
+Satellites used: 7
+Speed: 10.2 m/s  (36.8 km/h)</description>
+            <Point id="70">
+                <coordinates>34.812023189323945,32.16919919004987,62.664937373421004</coordinates>
+                <altitudeMode>absolute</altitudeMode>
+            </Point>
+        </Placemark>
+        <Placemark id="73">
+            <name>15:18:40</name>
+            <description>UTC: 2026-03-21 15:18:40
+Satellites used: 7
+Speed: 7.1 m/s  (25.6 km/h)</description>
+            <Point id="72">
+                <coordinates>34.81193011647614,32.16921684918514,40.01595979885401</coordinates>
+                <altitudeMode>absolute</altitudeMode>
+            </Point>
+        </Placemark>
+        <Placemark id="75">
+            <name>15:18:41</name>
+            <description>UTC: 2026-03-21 15:18:41
+Satellites used: 7
+Speed: 9.2 m/s  (33.3 km/h)</description>
+            <Point id="74">
+                <coordinates>34.811958845064005,32.16931348630494,63.3174522022417</coordinates>
+                <altitudeMode>absolute</altitudeMode>
+            </Point>
+        </Placemark>
+        <Placemark id="77">
+            <name>15:18:42</name>
+            <description>UTC: 2026-03-21 15:18:42
+Satellites used: 6
+Speed: 7.9 m/s  (28.5 km/h)</description>
+            <Point id="76">
+                <coordinates>34.81207089453459,32.16928343865657,40.43844179884874</coordinates>
+                <altitudeMode>absolute</altitudeMode>
+            </Point>
+        </Placemark>
+        <Placemark id="79">
+            <name>15:18:43</name>
+            <description>UTC: 2026-03-21 15:18:43
+Satellites used: 6
+Speed: 7.4 m/s  (26.8 km/h)</description>
+            <Point id="78">
+                <coordinates>34.81207712514964,32.1693237181122,34.327144355229365</coordinates>
+                <altitudeMode>absolute</altitudeMode>
+            </Point>
+        </Placemark>
+        <Placemark id="81">
+            <name>15:18:44</name>
+            <description>UTC: 2026-03-21 15:18:44
+Satellites used: 8
+Speed: 17.6 m/s  (63.4 km/h)</description>
+            <Point id="80">
+                <coordinates>34.812030064470896,32.16956487463412,73.26775399464287</coordinates>
+                <altitudeMode>absolute</altitudeMode>
+            </Point>
+        </Placemark>
+        <Placemark id="83">
+            <name>15:18:45</name>
+            <description>UTC: 2026-03-21 15:18:45
+Satellites used: 8
+Speed: 13.4 m/s  (48.4 km/h)</description>
+            <Point id="82">
+                <coordinates>34.81218498091808,32.16961110262556,72.98996435184729</coordinates>
+                <altitudeMode>absolute</altitudeMode>
+            </Point>
+        </Placemark>
+        <Placemark id="85">
+            <name>15:18:46</name>
+            <description>UTC: 2026-03-21 15:18:46
+Satellites used: 8
+Speed: 9.4 m/s  (34.0 km/h)</description>
+            <Point id="84">
+                <coordinates>34.812176518519166,32.16965586801694,51.781876273796904</coordinates>
+                <altitudeMode>absolute</altitudeMode>
+            </Point>
+        </Placemark>
+        <Placemark id="87">
+            <name>15:18:47</name>
+            <description>UTC: 2026-03-21 15:18:47
+Satellites used: 7
+Speed: 8.6 m/s  (30.8 km/h)</description>
+            <Point id="86">
+                <coordinates>34.81220551631347,32.169644128664714,40.99158395621052</coordinates>
+                <altitudeMode>absolute</altitudeMode>
+            </Point>
+        </Placemark>
+        <Placemark id="89">
+            <name>15:18:48</name>
+            <description>UTC: 2026-03-21 15:18:48
+Satellites used: 8
+Speed: 11.9 m/s  (42.7 km/h)</description>
+            <Point id="88">
+                <coordinates>34.81232886054224,32.16981023043675,54.13823006383904</coordinates>
+                <altitudeMode>absolute</altitudeMode>
+            </Point>
+        </Placemark>
+        <Placemark id="91">
+            <name>15:18:49</name>
+            <description>UTC: 2026-03-21 15:18:49
+Satellites used: 7
+Speed: 9.7 m/s  (34.8 km/h)</description>
+            <Point id="90">
+                <coordinates>34.81236294372654,32.169857368807904,56.34394472651142</coordinates>
+                <altitudeMode>absolute</altitudeMode>
+            </Point>
+        </Placemark>
+        <Placemark id="93">
+            <name>15:18:50</name>
+            <description>UTC: 2026-03-21 15:18:50
+Satellites used: 7
+Speed: 16.1 m/s  (57.9 km/h)</description>
+            <Point id="92">
+                <coordinates>34.81244148824081,32.1700456786926,71.34978316562454</coordinates>
+                <altitudeMode>absolute</altitudeMode>
+            </Point>
+        </Placemark>
+        <Placemark id="95">
+            <name>15:18:51</name>
+            <description>UTC: 2026-03-21 15:18:51
+Satellites used: 6
+Speed: 9.0 m/s  (32.3 km/h)</description>
+            <Point id="94">
+                <coordinates>34.81238821626896,32.16999210481384,43.706706390207515</coordinates>
+                <altitudeMode>absolute</altitudeMode>
+            </Point>
+        </Placemark>
+        <Placemark id="97">
+            <name>15:18:52</name>
+            <description>UTC: 2026-03-21 15:18:52
+Satellites used: 6
+Speed: 11.2 m/s  (40.2 km/h)</description>
+            <Point id="96">
+                <coordinates>34.812331585699525,32.17001154913384,28.2798833569726</coordinates>
+                <altitudeMode>absolute</altitudeMode>
+            </Point>
+        </Placemark>
+        <Placemark id="99">
+            <name>15:18:53</name>
+            <description>UTC: 2026-03-21 15:18:53
+Satellites used: 6
+Speed: 9.9 m/s  (35.5 km/h)</description>
+            <Point id="98">
+                <coordinates>34.812335226314744,32.17010536342526,25.625605304999517</coordinates>
+                <altitudeMode>absolute</altitudeMode>
+            </Point>
+        </Placemark>
+        <Placemark id="101">
+            <name>15:18:54</name>
+            <description>UTC: 2026-03-21 15:18:54
+Satellites used: 6
+Speed: 8.1 m/s  (29.3 km/h)</description>
+            <Point id="100">
+                <coordinates>34.81246649567335,32.1701662477555,35.807153911398075</coordinates>
+                <altitudeMode>absolute</altitudeMode>
+            </Point>
+        </Placemark>
+        <Placemark id="103">
+            <name>15:18:55</name>
+            <description>UTC: 2026-03-21 15:18:55
+Satellites used: 7
+Speed: 9.8 m/s  (35.1 km/h)</description>
+            <Point id="102">
+                <coordinates>34.812468844403334,32.17028437115997,38.999404933715866</coordinates>
+                <altitudeMode>absolute</altitudeMode>
+            </Point>
+        </Placemark>
+        <Placemark id="105">
+            <name>15:18:56</name>
+            <description>UTC: 2026-03-21 15:18:56
+Satellites used: 7
+Speed: 21.8 m/s  (78.4 km/h)</description>
+            <Point id="104">
+                <coordinates>34.81244756828709,32.17044278957214,81.74884773403777</coordinates>
+                <altitudeMode>absolute</altitudeMode>
+            </Point>
+        </Placemark>
+        <Placemark id="107">
+            <name>15:18:57</name>
+            <description>UTC: 2026-03-21 15:18:57
+Satellites used: 6
+Speed: 12.5 m/s  (45.0 km/h)</description>
+            <Point id="106">
+                <coordinates>34.81252941891171,32.17038300226617,27.799547863290552</coordinates>
+                <altitudeMode>absolute</altitudeMode>
+            </Point>
+        </Placemark>
+        <Placemark id="109">
+            <name>15:18:58</name>
+            <description>UTC: 2026-03-21 15:18:58
+Satellites used: 6
+Speed: 8.8 m/s  (31.8 km/h)</description>
+            <Point id="108">
+                <coordinates>34.81259576152884,32.170465753663066,35.385602968821814</coordinates>
+                <altitudeMode>absolute</altitudeMode>
+            </Point>
+        </Placemark>
+        <Placemark id="111">
+            <name>15:18:59</name>
+            <description>UTC: 2026-03-21 15:18:59
+Satellites used: 6
+Speed: 7.8 m/s  (28.1 km/h)</description>
+            <Point id="110">
+                <coordinates>34.81261185244854,32.17053424540759,41.276423309131886</coordinates>
+                <altitudeMode>absolute</altitudeMode>
+            </Point>
+        </Placemark>
+        <Placemark id="113">
+            <name>15:19:00</name>
+            <description>UTC: 2026-03-21 15:19:00
+Satellites used: 6
+Speed: 9.5 m/s  (34.3 km/h)</description>
+            <Point id="112">
+                <coordinates>34.812632741967796,32.170609624162616,28.230862330658237</coordinates>
+                <altitudeMode>absolute</altitudeMode>
+            </Point>
+        </Placemark>
+        <Placemark id="115">
+            <name>15:19:01</name>
+            <description>UTC: 2026-03-21 15:19:01
+Satellites used: 7
+Speed: 16.3 m/s  (58.6 km/h)</description>
+            <Point id="114">
+                <coordinates>34.812694405355764,32.17076707760229,62.75971191174002</coordinates>
+                <altitudeMode>absolute</altitudeMode>
+            </Point>
+        </Placemark>
+        <Placemark id="117">
+            <name>15:19:02</name>
+            <description>UTC: 2026-03-21 15:19:02
+Satellites used: 7
+Speed: 12.3 m/s  (44.2 km/h)</description>
+            <Point id="116">
+                <coordinates>34.81272436297244,32.17081029141129,66.0094332139753</coordinates>
+                <altitudeMode>absolute</altitudeMode>
+            </Point>
+        </Placemark>
+        <Placemark id="119">
+            <name>15:19:03</name>
+            <description>UTC: 2026-03-21 15:19:03
+Satellites used: 5
+Speed: 11.8 m/s  (42.4 km/h)</description>
+            <Point id="118">
+                <coordinates>34.81272830053261,32.170806823517744,28.484004622584468</coordinates>
+                <altitudeMode>absolute</altitudeMode>
+            </Point>
+        </Placemark>
+        <Placemark id="121">
+            <name>15:19:04</name>
+            <description>UTC: 2026-03-21 15:19:04
+Satellites used: 6
+Speed: 43.5 m/s  (156.5 km/h)</description>
+            <Point id="120">
+                <coordinates>34.81297521049226,32.17133289548068,126.09682763796474</coordinates>
+                <altitudeMode>absolute</altitudeMode>
+            </Point>
+        </Placemark>
+        <Placemark id="123">
+            <name>15:19:05</name>
+            <description>UTC: 2026-03-21 15:19:05
+Satellites used: 7
+Speed: 7.3 m/s  (26.4 km/h)</description>
+            <Point id="122">
+                <coordinates>34.81290908551706,32.17105274878582,63.96627815349043</coordinates>
+                <altitudeMode>absolute</altitudeMode>
+            </Point>
+        </Placemark>
+        <Placemark id="125">
+            <name>15:19:06</name>
+            <description>UTC: 2026-03-21 15:19:06
+Satellites used: 7
+Speed: 8.6 m/s  (31.0 km/h)</description>
+            <Point id="124">
+                <coordinates>34.81299480569668,32.171069805532376,56.86638929181637</coordinates>
+                <altitudeMode>absolute</altitudeMode>
+            </Point>
+        </Placemark>
+        <Placemark id="127">
+            <name>15:19:07</name>
+            <description>UTC: 2026-03-21 15:19:07
+Satellites used: 7
+Speed: 9.5 m/s  (34.3 km/h)</description>
+            <Point id="126">
+                <coordinates>34.812856995438686,32.171241879224574,67.86350605467926</coordinates>
+                <altitudeMode>absolute</altitudeMode>
+            </Point>
+        </Placemark>
+        <Placemark id="129">
+            <name>15:19:08</name>
+            <description>UTC: 2026-03-21 15:19:08
+Satellites used: 7
+Speed: 10.5 m/s  (37.7 km/h)</description>
+            <Point id="128">
+                <coordinates>34.81289603292668,32.17135181056197,66.87702864140172</coordinates>
+                <altitudeMode>absolute</altitudeMode>
+            </Point>
+        </Placemark>
+        <Placemark id="131">
+            <name>15:19:09</name>
+            <description>UTC: 2026-03-21 15:19:09
+Satellites used: 7
+Speed: 15.4 m/s  (55.3 km/h)</description>
+            <Point id="130">
+                <coordinates>34.813062828735205,32.17148091155869,84.24250075388932</coordinates>
+                <altitudeMode>absolute</altitudeMode>
+            </Point>
+        </Placemark>
+        <Placemark id="133">
+            <name>15:19:10</name>
+            <description>UTC: 2026-03-21 15:19:10
+Satellites used: 7
+Speed: 13.7 m/s  (49.2 km/h)</description>
+            <Point id="132">
+                <coordinates>34.812744981072576,32.17153092111314,87.95616194331092</coordinates>
+                <altitudeMode>absolute</altitudeMode>
+            </Point>
+        </Placemark>
+        <Placemark id="135">
+            <name>15:19:11</name>
+            <description>UTC: 2026-03-21 15:19:11
+Satellites used: 6
+Speed: 15.1 m/s  (54.3 km/h)</description>
+            <Point id="134">
+                <coordinates>34.8129072805766,32.171366670442836,42.08323215619902</coordinates>
+                <altitudeMode>absolute</altitudeMode>
+            </Point>
+        </Placemark>
+        <Placemark id="137">
+            <name>15:19:12</name>
+            <description>UTC: 2026-03-21 15:19:12
+Satellites used: 7
+Speed: 11.3 m/s  (40.5 km/h)</description>
+            <Point id="136">
+                <coordinates>34.812763686628365,32.171613455016946,70.43524328556627</coordinates>
+                <altitudeMode>absolute</altitudeMode>
+            </Point>
+        </Placemark>
+        <Placemark id="139">
+            <name>15:19:13</name>
+            <description>UTC: 2026-03-21 15:19:13
+Satellites used: 7
+Speed: 10.1 m/s  (36.5 km/h)</description>
+            <Point id="138">
+                <coordinates>34.81288229929042,32.171669863911774,53.630354362286376</coordinates>
+                <altitudeMode>absolute</altitudeMode>
+            </Point>
+        </Placemark>
+        <Placemark id="141">
+            <name>15:19:14</name>
+            <description>UTC: 2026-03-21 15:19:14
+Satellites used: 7
+Speed: 16.1 m/s  (58.1 km/h)</description>
+            <Point id="140">
+                <coordinates>34.81282077650084,32.17186641439303,82.17019336714624</coordinates>
+                <altitudeMode>absolute</altitudeMode>
+            </Point>
+        </Placemark>
+        <Placemark id="143">
+            <name>15:19:15</name>
+            <description>UTC: 2026-03-21 15:19:15
+Satellites used: 7
+Speed: 8.0 m/s  (28.8 km/h)</description>
+            <Point id="142">
+                <coordinates>34.812880300256396,32.17185551339635,67.26223459727464</coordinates>
+                <altitudeMode>absolute</altitudeMode>
+            </Point>
+        </Placemark>
+        <Placemark id="145">
+            <name>15:19:16</name>
+            <description>UTC: 2026-03-21 15:19:16
+Satellites used: 6
+Speed: 10.2 m/s  (36.8 km/h)</description>
+            <Point id="144">
+                <coordinates>34.81297017508567,32.17178439094689,45.84527060813659</coordinates>
+                <altitudeMode>absolute</altitudeMode>
+            </Point>
+        </Placemark>
+        <Placemark id="147">
+            <name>15:19:17</name>
+            <description>UTC: 2026-03-21 15:19:17
+Satellites used: 7
+Speed: 9.1 m/s  (32.7 km/h)</description>
+            <Point id="146">
+                <coordinates>34.81291564604064,32.171967069957255,57.45323727677169</coordinates>
+                <altitudeMode>absolute</altitudeMode>
+            </Point>
+        </Placemark>
+        <Placemark id="149">
+            <name>15:19:18</name>
+            <description>UTC: 2026-03-21 15:19:18
+Satellites used: 8
+Speed: 7.3 m/s  (26.2 km/h)</description>
+            <Point id="148">
+                <coordinates>34.812861015384804,32.17200035988083,54.98859565959568</coordinates>
+                <altitudeMode>absolute</altitudeMode>
+            </Point>
+        </Placemark>
+        <Placemark id="151">
+            <name>15:19:19</name>
+            <description>UTC: 2026-03-21 15:19:19
+Satellites used: 6
+Speed: 8.3 m/s  (29.7 km/h)</description>
+            <Point id="150">
+                <coordinates>34.81301214943383,32.171969297755325,41.62209456158772</coordinates>
+                <altitudeMode>absolute</altitudeMode>
+            </Point>
+        </Placemark>
+        <Placemark id="153">
+            <name>15:19:20</name>
+            <description>UTC: 2026-03-21 15:19:20
+Satellites used: 8
+Speed: 14.1 m/s  (50.9 km/h)</description>
+            <Point id="152">
+                <coordinates>34.81315839729319,32.172136068369454,68.54723795199557</coordinates>
+                <altitudeMode>absolute</altitudeMode>
+            </Point>
+        </Placemark>
+        <Placemark id="155">
+            <name>15:19:21</name>
+            <description>UTC: 2026-03-21 15:19:21
+Satellites used: 8
+Speed: 6.3 m/s  (22.7 km/h)</description>
+            <Point id="154">
+                <coordinates>34.81298962210658,32.17213726331373,64.94407071184136</coordinates>
+                <altitudeMode>absolute</altitudeMode>
+            </Point>
+        </Placemark>
+        <Placemark id="157">
+            <name>15:19:22</name>
+            <description>UTC: 2026-03-21 15:19:22
+Satellites used: 7
+Speed: 6.6 m/s  (23.7 km/h)</description>
+            <Point id="156">
+                <coordinates>34.813034869342545,32.17218683041836,52.011303380963035</coordinates>
+                <altitudeMode>absolute</altitudeMode>
+            </Point>
+        </Placemark>
+        <Placemark id="159">
+            <name>15:19:23</name>
+            <description>UTC: 2026-03-21 15:19:23
+Satellites used: 7
+Speed: 7.2 m/s  (25.8 km/h)</description>
+            <Point id="158">
+                <coordinates>34.81308705474063,32.17226348418755,55.869422515356376</coordinates>
+                <altitudeMode>absolute</altitudeMode>
+            </Point>
+        </Placemark>
+        <Placemark id="161">
+            <name>15:19:24</name>
+            <description>UTC: 2026-03-21 15:19:24
+Satellites used: 7
+Speed: 6.1 m/s  (22.1 km/h)</description>
+            <Point id="160">
+                <coordinates>34.813050496610344,32.172304141281,51.845333278855236</coordinates>
+                <altitudeMode>absolute</altitudeMode>
+            </Point>
+        </Placemark>
+        <Placemark id="163">
+            <name>15:19:25</name>
+            <description>UTC: 2026-03-21 15:19:25
+Satellites used: 7
+Speed: 6.5 m/s  (23.2 km/h)</description>
+            <Point id="162">
+                <coordinates>34.81312952655516,32.1723510514887,51.95367743962539</coordinates>
+                <altitudeMode>absolute</altitudeMode>
+            </Point>
+        </Placemark>
+        <Placemark id="165">
+            <name>15:19:26</name>
+            <description>UTC: 2026-03-21 15:19:26
+Satellites used: 7
+Speed: 5.4 m/s  (19.4 km/h)</description>
+            <Point id="164">
+                <coordinates>34.8130803338983,32.172368990806035,45.03962995408535</coordinates>
+                <altitudeMode>absolute</altitudeMode>
+            </Point>
+        </Placemark>
+        <Placemark id="167">
+            <name>15:19:27</name>
+            <description>UTC: 2026-03-21 15:19:27
+Satellites used: 8
+Speed: 4.0 m/s  (14.6 km/h)</description>
+            <Point id="166">
+                <coordinates>34.81302878048705,32.17238461716961,54.10482817383876</coordinates>
+                <altitudeMode>absolute</altitudeMode>
+            </Point>
+        </Placemark>
+        <Placemark id="169">
+            <name>15:19:28</name>
+            <description>UTC: 2026-03-21 15:19:28
+Satellites used: 8
+Speed: 6.5 m/s  (23.2 km/h)</description>
+            <Point id="168">
+                <coordinates>34.81303081591891,32.17247345235093,58.0292486762322</coordinates>
+                <altitudeMode>absolute</altitudeMode>
+            </Point>
+        </Placemark>
+        <Placemark id="171">
+            <name>15:19:29</name>
+            <description>UTC: 2026-03-21 15:19:29
+Satellites used: 7
+Speed: 7.9 m/s  (28.4 km/h)</description>
+            <Point id="170">
+                <coordinates>34.81296876248711,32.17252986551644,64.60138121817135</coordinates>
+                <altitudeMode>absolute</altitudeMode>
+            </Point>
+        </Placemark>
+        <Placemark id="173">
+            <name>15:19:30</name>
+            <description>UTC: 2026-03-21 15:19:30
+Satellites used: 7
+Speed: 2.7 m/s  (9.7 km/h)</description>
+            <Point id="172">
+                <coordinates>34.81298637981421,32.172473880076076,52.94935666789261</coordinates>
+                <altitudeMode>absolute</altitudeMode>
+            </Point>
+        </Placemark>
+        <Placemark id="175">
+            <name>15:19:31</name>
+            <description>UTC: 2026-03-21 15:19:31
+Satellites used: 7
+Speed: 4.9 m/s  (17.7 km/h)</description>
+            <Point id="174">
+                <coordinates>34.812892795081595,32.17251525058219,56.36836424631514</coordinates>
+                <altitudeMode>absolute</altitudeMode>
+            </Point>
+        </Placemark>
+        <Placemark id="177">
+            <name>15:19:32</name>
+            <description>UTC: 2026-03-21 15:19:32
+Satellites used: 8
+Speed: 4.7 m/s  (16.9 km/h)</description>
+            <Point id="176">
+                <coordinates>34.812988899462766,32.17258410224494,57.06266985933768</coordinates>
+                <altitudeMode>absolute</altitudeMode>
+            </Point>
+        </Placemark>
+        <Placemark id="179">
+            <name>15:19:33</name>
+            <description>UTC: 2026-03-21 15:19:33
+Satellites used: 7
+Speed: 9.6 m/s  (34.6 km/h)</description>
+            <Point id="178">
+                <coordinates>34.8128158002244,32.172430280223146,40.525314386566286</coordinates>
+                <altitudeMode>absolute</altitudeMode>
+            </Point>
+        </Placemark>
+        <Placemark id="181">
+            <name>15:19:34</name>
+            <description>UTC: 2026-03-21 15:19:34
+Satellites used: 7
+Speed: 7.7 m/s  (27.9 km/h)</description>
+            <Point id="180">
+                <coordinates>34.812744323068884,32.17246428651766,61.46387047334222</coordinates>
+                <altitudeMode>absolute</altitudeMode>
+            </Point>
+        </Placemark>
+        <Placemark id="183">
+            <name>15:19:35</name>
+            <description>UTC: 2026-03-21 15:19:35
+Satellites used: 8
+Speed: 9.6 m/s  (34.7 km/h)</description>
+            <Point id="182">
+                <coordinates>34.81270208940724,32.172649679670705,60.76403494759429</coordinates>
+                <altitudeMode>absolute</altitudeMode>
+            </Point>
+        </Placemark>
+        <Placemark id="185">
+            <name>15:19:36</name>
+            <description>UTC: 2026-03-21 15:19:36
+Satellites used: 8
+Speed: 4.9 m/s  (17.6 km/h)</description>
+            <Point id="184">
+                <coordinates>34.81266465616549,32.17258109643772,55.74144508407197</coordinates>
+                <altitudeMode>absolute</altitudeMode>
+            </Point>
+        </Placemark>
+        <Placemark id="187">
+            <name>15:19:37</name>
+            <description>UTC: 2026-03-21 15:19:37
+Satellites used: 8
+Speed: 3.1 m/s  (11.2 km/h)</description>
+            <Point id="186">
+                <coordinates>34.81267925359421,32.1725618021865,51.06727126173492</coordinates>
+                <altitudeMode>absolute</altitudeMode>
+            </Point>
+        </Placemark>
+        <Placemark id="189">
+            <name>15:19:38</name>
+            <description>UTC: 2026-03-21 15:19:38
+Satellites used: 7
+Speed: 14.4 m/s  (51.8 km/h)</description>
+            <Point id="188">
+                <coordinates>34.81247856511397,32.172434629436125,29.8312963699538</coordinates>
+                <altitudeMode>absolute</altitudeMode>
+            </Point>
+        </Placemark>
+        <Placemark id="191">
+            <name>15:19:39</name>
+            <description>UTC: 2026-03-21 15:19:39
+Satellites used: 7
+Speed: 9.1 m/s  (32.7 km/h)</description>
+            <Point id="190">
+                <coordinates>34.81246751863244,32.172617381877295,57.54105280661695</coordinates>
+                <altitudeMode>absolute</altitudeMode>
+            </Point>
+        </Placemark>
+        <Placemark id="193">
+            <name>15:19:40</name>
+            <description>UTC: 2026-03-21 15:19:40
+Satellites used: 7
+Speed: 7.2 m/s  (26.0 km/h)</description>
+            <Point id="192">
+                <coordinates>34.81247396334208,32.17267712973068,58.2708633347258</coordinates>
+                <altitudeMode>absolute</altitudeMode>
+            </Point>
+        </Placemark>
+        <Placemark id="195">
+            <name>15:19:41</name>
+            <description>UTC: 2026-03-21 15:19:41
+Satellites used: 7
+Speed: 6.8 m/s  (24.4 km/h)</description>
+            <Point id="194">
+                <coordinates>34.812347011746255,32.17260513317576,50.967768249261596</coordinates>
+                <altitudeMode>absolute</altitudeMode>
+            </Point>
+        </Placemark>
+        <Placemark id="197">
+            <name>15:19:42</name>
+            <description>UTC: 2026-03-21 15:19:42
+Satellites used: 8
+Speed: 8.0 m/s  (28.8 km/h)</description>
+            <Point id="196">
+                <coordinates>34.81225316887926,32.172590574595624,58.664913304658675</coordinates>
+                <altitudeMode>absolute</altitudeMode>
+            </Point>
+        </Placemark>
+        <Placemark id="199">
+            <name>15:19:43</name>
+            <description>UTC: 2026-03-21 15:19:43
+Satellites used: 7
+Speed: 6.9 m/s  (24.9 km/h)</description>
+            <Point id="198">
+                <coordinates>34.81220133063426,32.17257560863505,60.29631321370767</coordinates>
+                <altitudeMode>absolute</altitudeMode>
+            </Point>
+        </Placemark>
+        <Placemark id="201">
+            <name>15:19:44</name>
+            <description>UTC: 2026-03-21 15:19:44
+Satellites used: 8
+Speed: 6.3 m/s  (22.7 km/h)</description>
+            <Point id="200">
+                <coordinates>34.81215096904341,32.172623450061245,52.04403535558851</coordinates>
+                <altitudeMode>absolute</altitudeMode>
+            </Point>
+        </Placemark>
+        <Placemark id="203">
+            <name>15:19:45</name>
+            <description>UTC: 2026-03-21 15:19:45
+Satellites used: 8
+Speed: 1.4 m/s  (4.9 km/h)</description>
+            <Point id="202">
+                <coordinates>34.81221022983792,32.17259031237084,54.99379103263618</coordinates>
+                <altitudeMode>absolute</altitudeMode>
+            </Point>
+        </Placemark>
+        <Placemark id="205">
+            <name>15:19:46</name>
+            <description>UTC: 2026-03-21 15:19:46
+Satellites used: 8
+Speed: 10.4 m/s  (37.6 km/h)</description>
+            <Point id="204">
+                <coordinates>34.812073537845386,32.1725433715529,34.35494822581993</coordinates>
+                <altitudeMode>absolute</altitudeMode>
+            </Point>
+        </Placemark>
+        <Placemark id="207">
+            <name>15:19:47</name>
+            <description>UTC: 2026-03-21 15:19:47
+Satellites used: 7
+Speed: 6.0 m/s  (21.8 km/h)</description>
+            <Point id="206">
+                <coordinates>34.812078703428405,32.17254496185518,58.85251834955258</coordinates>
+                <altitudeMode>absolute</altitudeMode>
+            </Point>
+        </Placemark>
+        <Placemark id="209">
+            <name>15:19:48</name>
+            <description>UTC: 2026-03-21 15:19:48
+Satellites used: 8
+Speed: 5.4 m/s  (19.5 km/h)</description>
+            <Point id="208">
+                <coordinates>34.812067358656115,32.172485731403505,60.05184257944732</coordinates>
+                <altitudeMode>absolute</altitudeMode>
+            </Point>
+        </Placemark>
+        <Placemark id="211">
+            <name>15:19:49</name>
+            <description>UTC: 2026-03-21 15:19:49
+Satellites used: 7
+Speed: 3.7 m/s  (13.5 km/h)</description>
+            <Point id="210">
+                <coordinates>34.812130310971554,32.17247588546496,48.43194910424934</coordinates>
+                <altitudeMode>absolute</altitudeMode>
+            </Point>
+        </Placemark>
+        <Placemark id="213">
+            <name>15:19:50</name>
+            <description>UTC: 2026-03-21 15:19:50
+Satellites used: 7
+Speed: 6.9 m/s  (24.7 km/h)</description>
+            <Point id="212">
+                <coordinates>34.812205059177224,32.172375318677965,51.129161703304646</coordinates>
+                <altitudeMode>absolute</altitudeMode>
+            </Point>
+        </Placemark>
+        <Placemark id="215">
+            <name>15:19:51</name>
+            <description>UTC: 2026-03-21 15:19:51
+Satellites used: 7
+Speed: 5.5 m/s  (19.7 km/h)</description>
+            <Point id="214">
+                <coordinates>34.812119348414654,32.17241292104889,39.41152483437203</coordinates>
+                <altitudeMode>absolute</altitudeMode>
+            </Point>
+        </Placemark>
+        <Placemark id="217">
+            <name>15:19:52</name>
+            <description>UTC: 2026-03-21 15:19:52
+Satellites used: 8
+Speed: 11.8 m/s  (42.4 km/h)</description>
+            <Point id="216">
+                <coordinates>34.81199466858887,32.17232953218335,69.99665239800481</coordinates>
+                <altitudeMode>absolute</altitudeMode>
+            </Point>
+        </Placemark>
+        <Placemark id="219">
+            <name>15:19:53</name>
+            <description>UTC: 2026-03-21 15:19:53
+Satellites used: 7
+Speed: 5.3 m/s  (19.1 km/h)</description>
+            <Point id="218">
+                <coordinates>34.812058806071256,32.17227694434612,56.57469297122011</coordinates>
+                <altitudeMode>absolute</altitudeMode>
+            </Point>
+        </Placemark>
+        <Placemark id="221">
+            <name>15:19:54</name>
+            <description>UTC: 2026-03-21 15:19:54
+Satellites used: 7
+Speed: 3.6 m/s  (13.0 km/h)</description>
+            <Point id="220">
+                <coordinates>34.812018505467805,32.17229362592895,51.891301289703115</coordinates>
+                <altitudeMode>absolute</altitudeMode>
+            </Point>
+        </Placemark>
+        <Placemark id="223">
+            <name>15:19:55</name>
+            <description>UTC: 2026-03-21 15:19:55
+Satellites used: 7
+Speed: 7.6 m/s  (27.5 km/h)</description>
+            <Point id="222">
+                <coordinates>34.81205919903145,32.172159709559025,59.35606949550375</coordinates>
+                <altitudeMode>absolute</altitudeMode>
+            </Point>
+        </Placemark>
+        <Placemark id="225">
+            <name>15:19:56</name>
+            <description>UTC: 2026-03-21 15:19:56
+Satellites used: 7
+Speed: 7.0 m/s  (25.1 km/h)</description>
+            <Point id="224">
+                <coordinates>34.81191139424991,32.17215987744472,55.92989017677494</coordinates>
+                <altitudeMode>absolute</altitudeMode>
+            </Point>
+        </Placemark>
+        <Placemark id="227">
+            <name>15:19:57</name>
+            <description>UTC: 2026-03-21 15:19:57
+Satellites used: 6
+Speed: 5.7 m/s  (20.5 km/h)</description>
+            <Point id="226">
+                <coordinates>34.811971238089995,32.17215488445715,44.21136899422757</coordinates>
+                <altitudeMode>absolute</altitudeMode>
+            </Point>
+        </Placemark>
+        <Placemark id="229">
+            <name>15:19:58</name>
+            <description>UTC: 2026-03-21 15:19:58
+Satellites used: 6
+Speed: 10.5 m/s  (37.8 km/h)</description>
+            <Point id="228">
+                <coordinates>34.811924114254424,32.17200425147412,65.9797690097384</coordinates>
+                <altitudeMode>absolute</altitudeMode>
+            </Point>
+        </Placemark>
+        <Placemark id="231">
+            <name>15:19:59</name>
+            <description>UTC: 2026-03-21 15:19:59
+Satellites used: 7
+Speed: 6.2 m/s  (22.4 km/h)</description>
+            <Point id="230">
+                <coordinates>34.81199971049132,32.17201924350007,46.83109145133453</coordinates>
+                <altitudeMode>absolute</altitudeMode>
+            </Point>
+        </Placemark>
+        <Placemark id="233">
+            <name>15:20:00</name>
+            <description>UTC: 2026-03-21 15:20:00
+Satellites used: 7
+Speed: 7.1 m/s  (25.5 km/h)</description>
+            <Point id="232">
+                <coordinates>34.81192518256461,32.17194172320785,60.781840892837614</coordinates>
+                <altitudeMode>absolute</altitudeMode>
+            </Point>
+        </Placemark>
+        <Placemark id="235">
+            <name>15:20:01</name>
+            <description>UTC: 2026-03-21 15:20:01
+Satellites used: 7
+Speed: 7.8 m/s  (27.9 km/h)</description>
+            <Point id="234">
+                <coordinates>34.81180152792352,32.17191035743637,58.36243560381197</coordinates>
+                <altitudeMode>absolute</altitudeMode>
+            </Point>
+        </Placemark>
+        <Placemark id="237">
+            <name>15:20:02</name>
+            <description>UTC: 2026-03-21 15:20:02
+Satellites used: 7
+Speed: 9.6 m/s  (34.5 km/h)</description>
+            <Point id="236">
+                <coordinates>34.811879281754074,32.17191046736494,34.371706853175574</coordinates>
+                <altitudeMode>absolute</altitudeMode>
+            </Point>
+        </Placemark>
+        <Placemark id="239">
+            <name>15:20:03</name>
+            <description>UTC: 2026-03-21 15:20:03
+Satellites used: 8
+Speed: 7.0 m/s  (25.2 km/h)</description>
+            <Point id="238">
+                <coordinates>34.81174591625221,32.1718521145955,50.38806920633626</coordinates>
+                <altitudeMode>absolute</altitudeMode>
+            </Point>
+        </Placemark>
+        <Placemark id="241">
+            <name>15:20:04</name>
+            <description>UTC: 2026-03-21 15:20:04
+Satellites used: 7
+Speed: 7.9 m/s  (28.5 km/h)</description>
+            <Point id="240">
+                <coordinates>34.811882248264105,32.17174477132498,43.72189002221517</coordinates>
+                <altitudeMode>absolute</altitudeMode>
+            </Point>
+        </Placemark>
+        <Placemark id="243">
+            <name>15:20:05</name>
+            <description>UTC: 2026-03-21 15:20:05
+Satellites used: 8
+Speed: 16.9 m/s  (60.9 km/h)</description>
+            <Point id="242">
+                <coordinates>34.811676428049246,32.171613031991754,76.09339269926329</coordinates>
+                <altitudeMode>absolute</altitudeMode>
+            </Point>
+        </Placemark>
+        <Placemark id="245">
+            <name>15:20:06</name>
+            <description>UTC: 2026-03-21 15:20:06
+Satellites used: 6
+Speed: 22.5 m/s  (81.1 km/h)</description>
+            <Point id="244">
+                <coordinates>34.81158410317849,32.17148461986091,102.69007390358153</coordinates>
+                <altitudeMode>absolute</altitudeMode>
+            </Point>
+        </Placemark>
+        <Placemark id="247">
+            <name>15:20:07</name>
+            <description>UTC: 2026-03-21 15:20:07
+Satellites used: 6
+Speed: 8.4 m/s  (30.2 km/h)</description>
+            <Point id="246">
+                <coordinates>34.811720629014836,32.17149199698879,64.0189477031723</coordinates>
+                <altitudeMode>absolute</altitudeMode>
+            </Point>
+        </Placemark>
+        <Placemark id="249">
+            <name>15:20:08</name>
+            <description>UTC: 2026-03-21 15:20:08
+Satellites used: 7
+Speed: 10.6 m/s  (38.2 km/h)</description>
+            <Point id="248">
+                <coordinates>34.8117774255204,32.171485060963775,48.007085453915415</coordinates>
+                <altitudeMode>absolute</altitudeMode>
+            </Point>
+        </Placemark>
+        <Placemark id="251">
+            <name>15:20:09</name>
+            <description>UTC: 2026-03-21 15:20:09
+Satellites used: 7
+Speed: 12.3 m/s  (44.2 km/h)</description>
+            <Point id="250">
+                <coordinates>34.81170586428492,32.171515675587735,31.63542090556235</coordinates>
+                <altitudeMode>absolute</altitudeMode>
+            </Point>
+        </Placemark>
+        <Placemark id="253">
+            <name>15:20:10</name>
+            <description>UTC: 2026-03-21 15:20:10
+Satellites used: 7
+Speed: 8.8 m/s  (31.8 km/h)</description>
+            <Point id="252">
+                <coordinates>34.81176920804883,32.171481944124785,28.961765435327454</coordinates>
+                <altitudeMode>absolute</altitudeMode>
+            </Point>
+        </Placemark>
+        <Placemark id="255">
+            <name>15:20:11</name>
+            <description>UTC: 2026-03-21 15:20:11
+Satellites used: 7
+Speed: 15.1 m/s  (54.5 km/h)</description>
+            <Point id="254">
+                <coordinates>34.811599390206744,32.171278669239285,65.55654906770937</coordinates>
+                <altitudeMode>absolute</altitudeMode>
+            </Point>
+        </Placemark>
+        <Placemark id="257">
+            <name>15:20:12</name>
+            <description>UTC: 2026-03-21 15:20:12
+Satellites used: 7
+Speed: 9.4 m/s  (33.8 km/h)</description>
+            <Point id="256">
+                <coordinates>34.81157587878759,32.17124825041954,60.45732443524059</coordinates>
+                <altitudeMode>absolute</altitudeMode>
+            </Point>
+        </Placemark>
+        <Placemark id="259">
+            <name>15:20:13</name>
+            <description>UTC: 2026-03-21 15:20:13
+Satellites used: 7
+Speed: 9.2 m/s  (33.0 km/h)</description>
+            <Point id="258">
+                <coordinates>34.81151282889696,32.1711778809597,58.122203671542344</coordinates>
+                <altitudeMode>absolute</altitudeMode>
+            </Point>
+        </Placemark>
+        <Placemark id="261">
+            <name>15:20:14</name>
+            <description>UTC: 2026-03-21 15:20:14
+Satellites used: 7
+Speed: 8.6 m/s  (31.1 km/h)</description>
+            <Point id="260">
+                <coordinates>34.81160932714528,32.171117811779,44.59075916259116</coordinates>
+                <altitudeMode>absolute</altitudeMode>
+            </Point>
+        </Placemark>
+        <Placemark id="263">
+            <name>15:20:15</name>
+            <description>UTC: 2026-03-21 15:20:15
+Satellites used: 7
+Speed: 12.4 m/s  (44.7 km/h)</description>
+            <Point id="262">
+                <coordinates>34.8114662962567,32.17098864033966,64.79320460839524</coordinates>
+                <altitudeMode>absolute</altitudeMode>
+            </Point>
+        </Placemark>
+        <Placemark id="265">
+            <name>15:20:16</name>
+            <description>UTC: 2026-03-21 15:20:16
+Satellites used: 6
+Speed: 6.7 m/s  (24.1 km/h)</description>
+            <Point id="264">
+                <coordinates>34.81144271534801,32.171025444629905,48.800572136604366</coordinates>
+                <altitudeMode>absolute</altitudeMode>
+            </Point>
+        </Placemark>
+        <Placemark id="267">
+            <name>15:20:17</name>
+            <description>UTC: 2026-03-21 15:20:17
+Satellites used: 7
+Speed: 13.1 m/s  (47.2 km/h)</description>
+            <Point id="266">
+                <coordinates>34.81139794979817,32.170852754396385,71.19423732504981</coordinates>
+                <altitudeMode>absolute</altitudeMode>
+            </Point>
+        </Placemark>
+        <Placemark id="269">
+            <name>15:20:18</name>
+            <description>UTC: 2026-03-21 15:20:18
+Satellites used: 6
+Speed: 9.7 m/s  (34.8 km/h)</description>
+            <Point id="268">
+                <coordinates>34.81137840623491,32.1708928874307,40.61400292744971</coordinates>
+                <altitudeMode>absolute</altitudeMode>
+            </Point>
+        </Placemark>
+        <Placemark id="271">
+            <name>15:20:19</name>
+            <description>UTC: 2026-03-21 15:20:19
+Satellites used: 6
+Speed: 7.2 m/s  (26.1 km/h)</description>
+            <Point id="270">
+                <coordinates>34.81134806117753,32.17080489906516,51.11581237418966</coordinates>
+                <altitudeMode>absolute</altitudeMode>
+            </Point>
+        </Placemark>
+        <Placemark id="273">
+            <name>15:20:20</name>
+            <description>UTC: 2026-03-21 15:20:20
+Satellites used: 7
+Speed: 8.2 m/s  (29.6 km/h)</description>
+            <Point id="272">
+                <coordinates>34.81135340973042,32.17071666018929,56.59629712254271</coordinates>
+                <altitudeMode>absolute</altitudeMode>
+            </Point>
+        </Placemark>
+        <Placemark id="275">
+            <name>15:20:21</name>
+            <description>UTC: 2026-03-21 15:20:21
+Satellites used: 5
+Speed: 12.4 m/s  (44.6 km/h)</description>
+            <Point id="274">
+                <coordinates>34.81124584913481,32.17059817585235,67.24496346673385</coordinates>
+                <altitudeMode>absolute</altitudeMode>
+            </Point>
+        </Placemark>
+        <Placemark id="277">
+            <name>15:20:22</name>
+            <description>UTC: 2026-03-21 15:20:22
+Satellites used: 7
+Speed: 14.5 m/s  (52.2 km/h)</description>
+            <Point id="276">
+                <coordinates>34.81106546683567,32.170592437386865,80.90982065668854</coordinates>
+                <altitudeMode>absolute</altitudeMode>
+            </Point>
+        </Placemark>
+        <Placemark id="279">
+            <name>15:20:23</name>
+            <description>UTC: 2026-03-21 15:20:23
+Satellites used: 8
+Speed: 7.4 m/s  (26.6 km/h)</description>
+            <Point id="278">
+                <coordinates>34.81116450580635,32.17057462068437,54.30499814190297</coordinates>
+                <altitudeMode>absolute</altitudeMode>
+            </Point>
+        </Placemark>
+        <Placemark id="281">
+            <name>15:20:24</name>
+            <description>UTC: 2026-03-21 15:20:24
+Satellites used: 6
+Speed: 7.8 m/s  (28.0 km/h)</description>
+            <Point id="280">
+                <coordinates>34.811224114714115,32.17050102930523,50.2872914843805</coordinates>
+                <altitudeMode>absolute</altitudeMode>
+            </Point>
+        </Placemark>
+        <Placemark id="283">
+            <name>15:20:25</name>
+            <description>UTC: 2026-03-21 15:20:25
+Satellites used: 6
+Speed: 8.9 m/s  (31.9 km/h)</description>
+            <Point id="282">
+                <coordinates>34.81113137990282,32.170397316071714,53.30376568041392</coordinates>
+                <altitudeMode>absolute</altitudeMode>
+            </Point>
+        </Placemark>
+        <Placemark id="285">
+            <name>15:20:26</name>
+            <description>UTC: 2026-03-21 15:20:26
+Satellites used: 8
+Speed: 9.7 m/s  (35.0 km/h)</description>
+            <Point id="284">
+                <coordinates>34.81114098407516,32.170341001618795,71.26939044153283</coordinates>
+                <altitudeMode>absolute</altitudeMode>
+            </Point>
+        </Placemark>
+        <Placemark id="287">
+            <name>15:20:27</name>
+            <description>UTC: 2026-03-21 15:20:27
+Satellites used: 7
+Speed: 10.3 m/s  (37.1 km/h)</description>
+            <Point id="286">
+                <coordinates>34.81113996404494,32.17028449149483,43.125586895208876</coordinates>
+                <altitudeMode>absolute</altitudeMode>
+            </Point>
+        </Placemark>
+        <Placemark id="289">
+            <name>15:20:28</name>
+            <description>UTC: 2026-03-21 15:20:28
+Satellites used: 7
+Speed: 12.2 m/s  (44.1 km/h)</description>
+            <Point id="288">
+                <coordinates>34.81121148480448,32.17016326223561,36.08925692990465</coordinates>
+                <altitudeMode>absolute</altitudeMode>
+            </Point>
+        </Placemark>
+        <Placemark id="291">
+            <name>15:20:29</name>
+            <description>UTC: 2026-03-21 15:20:29
+Satellites used: 8
+Speed: 8.3 m/s  (29.7 km/h)</description>
+            <Point id="290">
+                <coordinates>34.81102851497436,32.17016463488464,52.53976042259594</coordinates>
+                <altitudeMode>absolute</altitudeMode>
+            </Point>
+        </Placemark>
+        <Placemark id="293">
+            <name>15:20:30</name>
+            <description>UTC: 2026-03-21 15:20:30
+Satellites used: 8
+Speed: 11.1 m/s  (40.1 km/h)</description>
+            <Point id="292">
+                <coordinates>34.810935854360416,32.17007902187591,61.84961699524266</coordinates>
+                <altitudeMode>absolute</altitudeMode>
+            </Point>
+        </Placemark>
+        <Placemark id="295">
+            <name>15:20:31</name>
+            <description>UTC: 2026-03-21 15:20:31
+Satellites used: 7
+Speed: 6.3 m/s  (22.8 km/h)</description>
+            <Point id="294">
+                <coordinates>34.810936809888446,32.170068942935416,52.00116970955738</coordinates>
+                <altitudeMode>absolute</altitudeMode>
+            </Point>
+        </Placemark>
+        <Placemark id="297">
+            <name>15:20:32</name>
+            <description>UTC: 2026-03-21 15:20:32
+Satellites used: 6
+Speed: 7.0 m/s  (25.3 km/h)</description>
+            <Point id="296">
+                <coordinates>34.811037300011584,32.16998790807589,47.28321949756291</coordinates>
+                <altitudeMode>absolute</altitudeMode>
+            </Point>
+        </Placemark>
+        <Placemark id="299">
+            <name>15:20:33</name>
+            <description>UTC: 2026-03-21 15:20:33
+Satellites used: 8
+Speed: 8.0 m/s  (28.7 km/h)</description>
+            <Point id="298">
+                <coordinates>34.810973934486356,32.16992794009139,40.269796687584574</coordinates>
+                <altitudeMode>absolute</altitudeMode>
+            </Point>
+        </Placemark>
+        <Placemark id="301">
+            <name>15:20:34</name>
+            <description>UTC: 2026-03-21 15:20:34
+Satellites used: 6
+Speed: 6.8 m/s  (24.5 km/h)</description>
+            <Point id="300">
+                <coordinates>34.81096168869364,32.16987476311687,41.11524465728604</coordinates>
+                <altitudeMode>absolute</altitudeMode>
+            </Point>
+        </Placemark>
+        <Placemark id="303">
+            <name>15:20:35</name>
+            <description>UTC: 2026-03-21 15:20:35
+Satellites used: 7
+Speed: 9.4 m/s  (33.9 km/h)</description>
+            <Point id="302">
+                <coordinates>34.81087566183485,32.16979456409855,55.07020583610176</coordinates>
+                <altitudeMode>absolute</altitudeMode>
+            </Point>
+        </Placemark>
+        <Placemark id="305">
+            <name>15:20:36</name>
+            <description>UTC: 2026-03-21 15:20:36
+Satellites used: 7
+Speed: 11.5 m/s  (41.3 km/h)</description>
+            <Point id="304">
+                <coordinates>34.810762037549,32.169702103649605,58.13954533319089</coordinates>
+                <altitudeMode>absolute</altitudeMode>
+            </Point>
+        </Placemark>
+        <Placemark id="307">
+            <name>15:20:37</name>
+            <description>UTC: 2026-03-21 15:20:37
+Satellites used: 7
+Speed: 9.1 m/s  (32.8 km/h)</description>
+            <Point id="306">
+                <coordinates>34.81089533317046,32.16963312990491,42.601368680000256</coordinates>
+                <altitudeMode>absolute</altitudeMode>
+            </Point>
+        </Placemark>
+        <Placemark id="309">
+            <name>15:20:38</name>
+            <description>UTC: 2026-03-21 15:20:38
+Satellites used: 8
+Speed: 8.7 m/s  (31.3 km/h)</description>
+            <Point id="308">
+                <coordinates>34.81068693662312,32.16964796894408,43.04062018157388</coordinates>
+                <altitudeMode>absolute</altitudeMode>
+            </Point>
+        </Placemark>
+        <Placemark id="311">
+            <name>15:20:39</name>
+            <description>UTC: 2026-03-21 15:20:39
+Satellites used: 7
+Speed: 8.9 m/s  (32.1 km/h)</description>
+            <Point id="310">
+                <coordinates>34.8107993382113,32.16950438420978,45.44928519172524</coordinates>
+                <altitudeMode>absolute</altitudeMode>
+            </Point>
+        </Placemark>
+        <Placemark id="313">
+            <name>15:20:40</name>
+            <description>UTC: 2026-03-21 15:20:40
+Satellites used: 7
+Speed: 19.1 m/s  (68.7 km/h)</description>
+            <Point id="312">
+                <coordinates>34.81057028214449,32.16937174996338,77.83992783448177</coordinates>
+                <altitudeMode>absolute</altitudeMode>
+            </Point>
+        </Placemark>
+        <Placemark id="315">
+            <name>15:20:41</name>
+            <description>UTC: 2026-03-21 15:20:41
+Satellites used: 6
+Speed: 8.8 m/s  (31.7 km/h)</description>
+            <Point id="314">
+                <coordinates>34.810737516535646,32.169368087527324,45.30620948534803</coordinates>
+                <altitudeMode>absolute</altitudeMode>
+            </Point>
+        </Placemark>
+        <Placemark id="317">
+            <name>15:20:42</name>
+            <description>UTC: 2026-03-21 15:20:42
+Satellites used: 6
+Speed: 17.3 m/s  (62.4 km/h)</description>
+            <Point id="316">
+                <coordinates>34.81053776330847,32.16920324260823,80.96269766628124</coordinates>
+                <altitudeMode>absolute</altitudeMode>
+            </Point>
+        </Placemark>
+        <Placemark id="319">
+            <name>15:20:43</name>
+            <description>UTC: 2026-03-21 15:20:43
+Satellites used: 7
+Speed: 10.2 m/s  (36.7 km/h)</description>
+            <Point id="318">
+                <coordinates>34.81067528805224,32.16926100516652,41.44822580585309</coordinates>
+                <altitudeMode>absolute</altitudeMode>
+            </Point>
+        </Placemark>
+        <Placemark id="321">
+            <name>15:20:44</name>
+            <description>UTC: 2026-03-21 15:20:44
+Satellites used: 8
+Speed: 13.4 m/s  (48.1 km/h)</description>
+            <Point id="320">
+                <coordinates>34.81048459807276,32.16924276113926,83.06550655962295</coordinates>
+                <altitudeMode>absolute</altitudeMode>
+            </Point>
+        </Placemark>
+        <Placemark id="323">
+            <name>15:20:45</name>
+            <description>UTC: 2026-03-21 15:20:45
+Satellites used: 7
+Speed: 11.9 m/s  (42.9 km/h)</description>
+            <Point id="322">
+                <coordinates>34.810594931581285,32.1690656078735,49.78154537211956</coordinates>
+                <altitudeMode>absolute</altitudeMode>
+            </Point>
+        </Placemark>
+        <Placemark id="325">
+            <name>15:20:46</name>
+            <description>UTC: 2026-03-21 15:20:46
+Satellites used: 6
+Speed: 14.2 m/s  (51.1 km/h)</description>
+            <Point id="324">
+                <coordinates>34.81044978320822,32.16895734407289,78.73886901882062</coordinates>
+                <altitudeMode>absolute</altitudeMode>
+            </Point>
+        </Placemark>
+        <Placemark id="327">
+            <name>15:20:47</name>
+            <description>UTC: 2026-03-21 15:20:47
+Satellites used: 8
+Speed: 11.1 m/s  (40.1 km/h)</description>
+            <Point id="326">
+                <coordinates>34.810363137289634,32.16890020166295,64.15755710350675</coordinates>
+                <altitudeMode>absolute</altitudeMode>
+            </Point>
+        </Placemark>
+        <Placemark id="329">
+            <name>15:20:48</name>
+            <description>UTC: 2026-03-21 15:20:48
+Satellites used: 8
+Speed: 8.0 m/s  (28.8 km/h)</description>
+            <Point id="328">
+                <coordinates>34.81052235403222,32.168884095865124,54.264962440149034</coordinates>
+                <altitudeMode>absolute</altitudeMode>
+            </Point>
+        </Placemark>
+        <Placemark id="331">
+            <name>15:20:49</name>
+            <description>UTC: 2026-03-21 15:20:49
+Satellites used: 7
+Speed: 9.6 m/s  (34.5 km/h)</description>
+            <Point id="330">
+                <coordinates>34.8105570083115,32.168850375967274,42.23882326964061</coordinates>
+                <altitudeMode>absolute</altitudeMode>
+            </Point>
+        </Placemark>
+        <Placemark id="333">
+            <name>15:20:50</name>
+            <description>UTC: 2026-03-21 15:20:50
+Satellites used: 7
+Speed: 12.2 m/s  (44.0 km/h)</description>
+            <Point id="332">
+                <coordinates>34.81036844223838,32.168789745539115,76.77423669512639</coordinates>
+                <altitudeMode>absolute</altitudeMode>
+            </Point>
+        </Placemark>
+        <Placemark id="335">
+            <name>15:20:51</name>
+            <description>UTC: 2026-03-21 15:20:51
+Satellites used: 7
+Speed: 6.6 m/s  (23.6 km/h)</description>
+            <Point id="334">
+                <coordinates>34.81053939543488,32.16878279864498,52.00675012240299</coordinates>
+                <altitudeMode>absolute</altitudeMode>
+            </Point>
+        </Placemark>
+        <Placemark id="337">
+            <name>15:20:52</name>
+            <description>UTC: 2026-03-21 15:20:52
+Satellites used: 7
+Speed: 7.6 m/s  (27.5 km/h)</description>
+            <Point id="336">
+                <coordinates>34.810579726398906,32.16868476821251,62.98114927681258</coordinates>
+                <altitudeMode>absolute</altitudeMode>
+            </Point>
+        </Placemark>
+        <Placemark id="339">
+            <name>15:20:53</name>
+            <description>UTC: 2026-03-21 15:20:53
+Satellites used: 8
+Speed: 8.0 m/s  (28.9 km/h)</description>
+            <Point id="338">
+                <coordinates>34.81060882759381,32.1686552125549,47.37763202800625</coordinates>
+                <altitudeMode>absolute</altitudeMode>
+            </Point>
+        </Placemark>
+        <Placemark id="341">
+            <name>15:20:54</name>
+            <description>UTC: 2026-03-21 15:20:54
+Satellites used: 7
+Speed: 6.1 m/s  (22.0 km/h)</description>
+            <Point id="340">
+                <coordinates>34.81061585457609,32.16872301351824,40.83654645039107</coordinates>
+                <altitudeMode>absolute</altitudeMode>
+            </Point>
+        </Placemark>
+        <Placemark id="343">
+            <name>15:20:55</name>
+            <description>UTC: 2026-03-21 15:20:55
+Satellites used: 6
+Speed: 16.1 m/s  (58.0 km/h)</description>
+            <Point id="342">
+                <coordinates>34.81092342067936,32.16879921411911,72.15978496688207</coordinates>
+                <altitudeMode>absolute</altitudeMode>
+            </Point>
+        </Placemark>
+        <Placemark id="345">
+            <name>15:20:56</name>
+            <description>UTC: 2026-03-21 15:20:56
+Satellites used: 5
+Speed: 9.0 m/s  (32.4 km/h)</description>
+            <Point id="344">
+                <coordinates>34.81094642445664,32.168702217235435,55.34730154425706</coordinates>
+                <altitudeMode>absolute</altitudeMode>
+            </Point>
+        </Placemark>
+        <Placemark id="347">
+            <name>15:20:57</name>
+            <description>UTC: 2026-03-21 15:20:57
+Satellites used: 6
+Speed: 3.4 m/s  (12.3 km/h)</description>
+            <Point id="346">
+                <coordinates>34.81087076290617,32.16873259664861,50.922060207810404</coordinates>
+                <altitudeMode>absolute</altitudeMode>
+            </Point>
+        </Placemark>
+        <Placemark id="349">
+            <name>15:20:58</name>
+            <description>UTC: 2026-03-21 15:20:58
+Satellites used: 6
+Speed: 8.5 m/s  (30.7 km/h)</description>
+            <Point id="348">
+                <coordinates>34.81102057149917,32.168833019007764,49.96447659511159</coordinates>
+                <altitudeMode>absolute</altitudeMode>
+            </Point>
+        </Placemark>
+        <Placemark id="351">
+            <name>15:20:59</name>
+            <description>UTC: 2026-03-21 15:20:59
+Satellites used: 7
+Speed: 11.4 m/s  (41.2 km/h)</description>
+            <Point id="350">
+                <coordinates>34.81120199208646,32.16883239713672,49.58902446876663</coordinates>
+                <altitudeMode>absolute</altitudeMode>
+            </Point>
+        </Placemark>
+        <Placemark id="353">
+            <name>15:21:00</name>
+            <description>UTC: 2026-03-21 15:21:00
+Satellites used: 8
+Speed: 9.4 m/s  (33.8 km/h)</description>
+            <Point id="352">
+                <coordinates>34.811245439909776,32.16877571685257,40.640380338543196</coordinates>
+                <altitudeMode>absolute</altitudeMode>
+            </Point>
+        </Placemark>
+        <Placemark id="355">
+            <name>15:21:01</name>
+            <description>UTC: 2026-03-21 15:21:01
+Satellites used: 6
+Speed: 10.6 m/s  (38.3 km/h)</description>
+            <Point id="354">
+                <coordinates>34.811369337712875,32.168762112349874,36.272310819407444</coordinates>
+                <altitudeMode>absolute</altitudeMode>
+            </Point>
+        </Placemark>
+        <Placemark id="357">
+            <name>15:21:02</name>
+            <description>UTC: 2026-03-21 15:21:02
+Satellites used: 7
+Speed: 8.2 m/s  (29.4 km/h)</description>
+            <Point id="356">
+                <coordinates>34.81140833242124,32.16872275063536,35.78601010149268</coordinates>
+                <altitudeMode>absolute</altitudeMode>
+            </Point>
+        </Placemark>
+        <Placemark id="359">
+            <name>15:21:03</name>
+            <description>UTC: 2026-03-21 15:21:03
+Satellites used: 7
+Speed: 7.0 m/s  (25.2 km/h)</description>
+            <Point id="358">
+                <coordinates>34.81146233142647,32.16880259733503,44.8138954044486</coordinates>
+                <altitudeMode>absolute</altitudeMode>
+            </Point>
+        </Placemark>
+        <Placemark id="361">
+            <name>15:21:04</name>
+            <description>UTC: 2026-03-21 15:21:04
+Satellites used: 8
+Speed: 9.5 m/s  (34.2 km/h)</description>
+            <Point id="360">
+                <coordinates>34.81156277030688,32.168894735166205,46.90163552111033</coordinates>
+                <altitudeMode>absolute</altitudeMode>
+            </Point>
+        </Placemark>
+        <Placemark id="363">
+            <name>15:21:05</name>
+            <description>UTC: 2026-03-21 15:21:05
+Satellites used: 7
+Speed: 4.9 m/s  (17.7 km/h)</description>
+            <Point id="362">
+                <coordinates>34.811565450476245,32.1687883903563,44.37978338734539</coordinates>
+                <altitudeMode>absolute</altitudeMode>
+            </Point>
+        </Placemark>
+        <Placemark id="365">
+            <name>15:21:06</name>
+            <description>UTC: 2026-03-21 15:21:06
+Satellites used: 8
+Speed: 10.5 m/s  (37.9 km/h)</description>
+            <Point id="364">
+                <coordinates>34.81158436696032,32.168695132272696,22.73293386461001</coordinates>
+                <altitudeMode>absolute</altitudeMode>
+            </Point>
+        </Placemark>
+        <Placemark id="367">
+            <name>15:21:07</name>
+            <description>UTC: 2026-03-21 15:21:07
+Satellites used: 7
+Speed: 7.7 m/s  (27.8 km/h)</description>
+            <Point id="366">
+                <coordinates>34.81166542459563,32.16884704945419,46.53027034383788</coordinates>
+                <altitudeMode>absolute</altitudeMode>
+            </Point>
+        </Placemark>
+        <Placemark id="369">
+            <name>15:21:08</name>
+            <description>UTC: 2026-03-21 15:21:08
+Satellites used: 7
+Speed: 5.0 m/s  (18.1 km/h)</description>
+            <Point id="368">
+                <coordinates>34.81170959322991,32.16883051378576,41.219699148233666</coordinates>
+                <altitudeMode>absolute</altitudeMode>
+            </Point>
+        </Placemark>
+        <Placemark id="371">
+            <name>15:21:09</name>
+            <description>UTC: 2026-03-21 15:21:09
+Satellites used: 7
+Speed: 6.7 m/s  (24.1 km/h)</description>
+            <Point id="370">
+                <coordinates>34.81175208226869,32.16889204863093,48.973896036121</coordinates>
+                <altitudeMode>absolute</altitudeMode>
+            </Point>
+        </Placemark>
+        <Placemark id="373">
+            <name>15:21:10</name>
+            <description>UTC: 2026-03-21 15:21:10
+Satellites used: 7
+Speed: 4.1 m/s  (14.6 km/h)</description>
+            <Point id="372">
+                <coordinates>34.81178288182688,32.1688558919128,40.97929013157698</coordinates>
+                <altitudeMode>absolute</altitudeMode>
+            </Point>
+        </Placemark>
+        <Placemark id="375">
+            <name>15:21:11</name>
+            <description>UTC: 2026-03-21 15:21:11
+Satellites used: 7
+Speed: 4.0 m/s  (14.4 km/h)</description>
+            <Point id="374">
+                <coordinates>34.81181089765999,32.16888115544152,46.71432174225953</coordinates>
+                <altitudeMode>absolute</altitudeMode>
+            </Point>
+        </Placemark>
+        <Placemark id="377">
+            <name>15:21:12</name>
+            <description>UTC: 2026-03-21 15:21:12
+Satellites used: 7
+Speed: 4.3 m/s  (15.6 km/h)</description>
+            <Point id="376">
+                <coordinates>34.81185224004155,32.168905840762825,47.92714098818135</coordinates>
+                <altitudeMode>absolute</altitudeMode>
+            </Point>
+        </Placemark>
+        <Placemark id="379">
+            <name>15:21:13</name>
+            <description>UTC: 2026-03-21 15:21:13
+Satellites used: 5
+Speed: 3.4 m/s  (12.1 km/h)</description>
+            <Point id="378">
+                <coordinates>34.811873895425315,32.16885590994743,48.836431454797975</coordinates>
+                <altitudeMode>absolute</altitudeMode>
+            </Point>
+        </Placemark>
+        <Placemark id="381">
+            <name>15:21:14</name>
+            <description>UTC: 2026-03-21 15:21:14
+Satellites used: 5
+Speed: 8.2 m/s  (29.5 km/h)</description>
+            <Point id="380">
+                <coordinates>34.8120083899767,32.16896827120959,49.443625187270676</coordinates>
+                <altitudeMode>absolute</altitudeMode>
+            </Point>
+        </Placemark>
+        <Placemark id="383">
+            <name>15:21:15</name>
+            <description>UTC: 2026-03-21 15:21:15
+Satellites used: 5
+Speed: 6.6 m/s  (23.6 km/h)</description>
+            <Point id="382">
+                <coordinates>34.81205863938483,32.16893308350488,53.98168407324964</coordinates>
+                <altitudeMode>absolute</altitudeMode>
+            </Point>
+        </Placemark>
+        <Placemark id="385">
+            <name>15:21:16</name>
+            <description>UTC: 2026-03-21 15:21:16
+Satellites used: 4
+Speed: 12.4 m/s  (44.6 km/h)</description>
+            <Point id="384">
+                <coordinates>34.812225914545024,32.16887406875002,68.27257626064412</coordinates>
+                <altitudeMode>absolute</altitudeMode>
+            </Point>
+        </Placemark>
+        <Placemark id="387">
+            <name>15:21:17</name>
+            <description>UTC: 2026-03-21 15:21:17
+Satellites used: 5
+Speed: 11.2 m/s  (40.2 km/h)</description>
+            <Point id="386">
+                <coordinates>34.8123268633928,32.16888805860421,71.07605586235272</coordinates>
+                <altitudeMode>absolute</altitudeMode>
+            </Point>
+        </Placemark>
+        <Placemark id="389">
+            <name>15:21:18</name>
+            <description>UTC: 2026-03-21 15:21:18
+Satellites used: 5
+Speed: 5.9 m/s  (21.4 km/h)</description>
+            <Point id="388">
+                <coordinates>34.81230155288041,32.16884526771491,56.63654559199067</coordinates>
+                <altitudeMode>absolute</altitudeMode>
+            </Point>
+        </Placemark>
+        <Placemark id="391">
+            <name>15:21:19</name>
+            <description>UTC: 2026-03-21 15:21:19
+Satellites used: 6
+Speed: 9.9 m/s  (35.7 km/h)</description>
+            <Point id="390">
+                <coordinates>34.812460753712045,32.168891381844496,70.90128853470219</coordinates>
+                <altitudeMode>absolute</altitudeMode>
+            </Point>
+        </Placemark>
+        <Placemark id="393">
+            <name>15:21:20</name>
+            <description>UTC: 2026-03-21 15:21:20
+Satellites used: 6
+Speed: 6.4 m/s  (23.0 km/h)</description>
+            <Point id="392">
+                <coordinates>34.81248292016109,32.1688663728829,61.133866310661624</coordinates>
+                <altitudeMode>absolute</altitudeMode>
+            </Point>
+        </Placemark>
+        <Placemark id="395">
+            <name>15:21:21</name>
+            <description>UTC: 2026-03-21 15:21:21
+Satellites used: 6
+Speed: 7.0 m/s  (25.3 km/h)</description>
+            <Point id="394">
+                <coordinates>34.812510485369195,32.168879583536985,50.3050249648202</coordinates>
+                <altitudeMode>absolute</altitudeMode>
+            </Point>
+        </Placemark>
+        <Placemark id="397">
+            <name>15:21:22</name>
+            <description>UTC: 2026-03-21 15:21:22
+Satellites used: 6
+Speed: 8.0 m/s  (28.7 km/h)</description>
+            <Point id="396">
+                <coordinates>34.81260869966918,32.16897345274697,61.78144612486436</coordinates>
+                <altitudeMode>absolute</altitudeMode>
+            </Point>
+        </Placemark>
+        <Placemark id="399">
+            <name>15:21:23</name>
+            <description>UTC: 2026-03-21 15:21:23
+Satellites used: 6
+Speed: 7.3 m/s  (26.2 km/h)</description>
+            <Point id="398">
+                <coordinates>34.81262657542047,32.1688456545779,47.806502044981514</coordinates>
+                <altitudeMode>absolute</altitudeMode>
+            </Point>
+        </Placemark>
+        <Placemark id="401">
+            <name>15:21:24</name>
+            <description>UTC: 2026-03-21 15:21:24
+Satellites used: 6
+Speed: 5.7 m/s  (20.6 km/h)</description>
+            <Point id="400">
+                <coordinates>34.81265660977529,32.168887732823606,44.358432607677365</coordinates>
+                <altitudeMode>absolute</altitudeMode>
+            </Point>
+        </Placemark>
+        <Placemark id="403">
+            <name>15:21:25</name>
+            <description>UTC: 2026-03-21 15:21:25
+Satellites used: 6
+Speed: 6.8 m/s  (24.5 km/h)</description>
+            <Point id="402">
+                <coordinates>34.81277026702417,32.16886993123335,47.31354509592599</coordinates>
+                <altitudeMode>absolute</altitudeMode>
+            </Point>
+        </Placemark>
+        <Placemark id="405">
+            <name>15:21:26</name>
+            <description>UTC: 2026-03-21 15:21:26
+Satellites used: 5
+Speed: 6.6 m/s  (23.9 km/h)</description>
+            <Point id="404">
+                <coordinates>34.8128340114387,32.16885911468014,45.42073608757031</coordinates>
+                <altitudeMode>absolute</altitudeMode>
+            </Point>
+        </Placemark>
+        <Placemark id="407">
+            <name>15:21:27</name>
+            <description>UTC: 2026-03-21 15:21:27
+Satellites used: 5
+Speed: 8.3 m/s  (30.0 km/h)</description>
+            <Point id="406">
+                <coordinates>34.81294946764848,32.16884064345711,45.94868077965019</coordinates>
+                <altitudeMode>absolute</altitudeMode>
+            </Point>
+        </Placemark>
+        <Placemark id="409">
+            <name>15:21:28</name>
+            <description>UTC: 2026-03-21 15:21:28
+Satellites used: 5
+Speed: 7.2 m/s  (25.9 km/h)</description>
+            <Point id="408">
+                <coordinates>34.81282237567309,32.16883390436471,29.274734595587166</coordinates>
+                <altitudeMode>absolute</altitudeMode>
+            </Point>
+        </Placemark>
+        <Placemark id="411">
+            <name>15:21:29</name>
+            <description>UTC: 2026-03-21 15:21:29
+Satellites used: 5
+Speed: 6.1 m/s  (22.0 km/h)</description>
+            <Point id="410">
+                <coordinates>34.812946839049374,32.16879340419254,47.22297039094628</coordinates>
+                <altitudeMode>absolute</altitudeMode>
+            </Point>
+        </Placemark>
+        <Placemark id="413">
+            <name>15:21:30</name>
+            <description>UTC: 2026-03-21 15:21:30
+Satellites used: 5
+Speed: 9.1 m/s  (32.9 km/h)</description>
+            <Point id="412">
+                <coordinates>34.81299256199948,32.16877522541176,61.75193285761538</coordinates>
+                <altitudeMode>absolute</altitudeMode>
+            </Point>
+        </Placemark>
+        <Placemark id="415">
+            <name>15:21:31</name>
+            <description>UTC: 2026-03-21 15:21:31
+Satellites used: 6
+Speed: 5.6 m/s  (20.3 km/h)</description>
+            <Point id="414">
+                <coordinates>34.81305114117168,32.1688621513351,53.10317792886956</coordinates>
+                <altitudeMode>absolute</altitudeMode>
+            </Point>
+        </Placemark>
+        <Placemark id="417">
+            <name>15:21:32</name>
+            <description>UTC: 2026-03-21 15:21:32
+Satellites used: 6
+Speed: 8.4 m/s  (30.1 km/h)</description>
+            <Point id="416">
+                <coordinates>34.81316600737123,32.16878685146546,60.481688780264236</coordinates>
+                <altitudeMode>absolute</altitudeMode>
+            </Point>
+        </Placemark>
+        <Placemark id="419">
+            <name>15:21:33</name>
+            <description>UTC: 2026-03-21 15:21:33
+Satellites used: 6
+Speed: 12.9 m/s  (46.4 km/h)</description>
+            <Point id="418">
+                <coordinates>34.81313615258037,32.16887300522294,85.48102150719274</coordinates>
+                <altitudeMode>absolute</altitudeMode>
+            </Point>
+        </Placemark>
+        <Placemark id="421">
+            <name>15:21:34</name>
+            <description>UTC: 2026-03-21 15:21:34
+Satellites used: 6
+Speed: 8.4 m/s  (30.2 km/h)</description>
+            <Point id="420">
+                <coordinates>34.81329904520584,32.16882199526572,62.095235496714714</coordinates>
+                <altitudeMode>absolute</altitudeMode>
+            </Point>
+        </Placemark>
+        <Placemark id="423">
+            <name>15:21:35</name>
+            <description>UTC: 2026-03-21 15:21:35
+Satellites used: 6
+Speed: 5.3 m/s  (19.0 km/h)</description>
+            <Point id="422">
+                <coordinates>34.81317974680784,32.16876137122069,54.46914777575855</coordinates>
+                <altitudeMode>absolute</altitudeMode>
+            </Point>
+        </Placemark>
+        <Placemark id="425">
+            <name>15:21:36</name>
+            <description>UTC: 2026-03-21 15:21:36
+Satellites used: 5
+Speed: 3.3 m/s  (11.8 km/h)</description>
+            <Point id="424">
+                <coordinates>34.813250196849935,32.168816129203194,57.302097181528794</coordinates>
+                <altitudeMode>absolute</altitudeMode>
+            </Point>
+        </Placemark>
+        <Placemark id="427">
+            <name>15:21:37</name>
+            <description>UTC: 2026-03-21 15:21:37
+Satellites used: 5
+Speed: 22.3 m/s  (80.3 km/h)</description>
+            <Point id="426">
+                <coordinates>34.813506223329334,32.16886072159835,107.09467471512575</coordinates>
+                <altitudeMode>absolute</altitudeMode>
+            </Point>
+        </Placemark>
+        <Placemark id="429">
+            <name>15:21:38</name>
+            <description>UTC: 2026-03-21 15:21:38
+Satellites used: 5
+Speed: 6.4 m/s  (23.1 km/h)</description>
+            <Point id="428">
+                <coordinates>34.813488517520796,32.16881080102378,82.45999056380185</coordinates>
+                <altitudeMode>absolute</altitudeMode>
+            </Point>
+        </Placemark>
+        <Placemark id="431">
+            <name>15:21:39</name>
+            <description>UTC: 2026-03-21 15:21:39
+Satellites used: 4
+Speed: 35.4 m/s  (127.3 km/h)</description>
+            <Point id="430">
+                <coordinates>34.81328222978565,32.16870986346001,-6.866859459999737</coordinates>
+                <altitudeMode>absolute</altitudeMode>
+            </Point>
+        </Placemark>
+        <Placemark id="433">
+            <name>15:21:40</name>
+            <description>UTC: 2026-03-21 15:21:40
+Satellites used: 5
+Speed: 7.5 m/s  (26.9 km/h)</description>
+            <Point id="432">
+                <coordinates>34.81331686872095,32.16880590549194,63.458584037522904</coordinates>
+                <altitudeMode>absolute</altitudeMode>
+            </Point>
+        </Placemark>
+        <Placemark id="435">
+            <name>15:21:41</name>
+            <description>UTC: 2026-03-21 15:21:41
+Satellites used: 5
+Speed: 19.2 m/s  (69.3 km/h)</description>
+            <Point id="434">
+                <coordinates>34.813281140038264,32.16875679895979,100.26123008623432</coordinates>
+                <altitudeMode>absolute</altitudeMode>
+            </Point>
+        </Placemark>
+        <Placemark id="437">
+            <name>15:21:42</name>
+            <description>UTC: 2026-03-21 15:21:42
+Satellites used: 6
+Speed: 10.9 m/s  (39.2 km/h)</description>
+            <Point id="436">
+                <coordinates>34.813318796416645,32.16894728770942,91.08283491952795</coordinates>
+                <altitudeMode>absolute</altitudeMode>
+            </Point>
+        </Placemark>
+        <Placemark id="439">
+            <name>15:21:43</name>
+            <description>UTC: 2026-03-21 15:21:43
+Satellites used: 5
+Speed: 6.1 m/s  (22.0 km/h)</description>
+            <Point id="438">
+                <coordinates>34.81326771372545,32.168828163660976,64.9345077924486</coordinates>
+                <altitudeMode>absolute</altitudeMode>
+            </Point>
+        </Placemark>
+        <Placemark id="441">
+            <name>15:21:44</name>
+            <description>UTC: 2026-03-21 15:21:44
+Satellites used: 5
+Speed: 14.1 m/s  (50.6 km/h)</description>
+            <Point id="440">
+                <coordinates>34.81327075211747,32.16886807540265,108.55359259895394</coordinates>
+                <altitudeMode>absolute</altitudeMode>
+            </Point>
+        </Placemark>
+        <Placemark id="443">
+            <name>15:21:45</name>
+            <description>UTC: 2026-03-21 15:21:45
+Satellites used: 6
+Speed: 10.5 m/s  (37.8 km/h)</description>
+            <Point id="442">
+                <coordinates>34.81345113321443,32.168762764225185,68.75231647830317</coordinates>
+                <altitudeMode>absolute</altitudeMode>
+            </Point>
+        </Placemark>
+        <Placemark id="445">
+            <name>15:21:46</name>
+            <description>UTC: 2026-03-21 15:21:46
+Satellites used: 6
+Speed: 3.9 m/s  (14.0 km/h)</description>
+            <Point id="444">
+                <coordinates>34.813291895236326,32.16887120074143,84.92518667002922</coordinates>
+                <altitudeMode>absolute</altitudeMode>
+            </Point>
+        </Placemark>
+        <Placemark id="447">
+            <name>15:21:47</name>
+            <description>UTC: 2026-03-21 15:21:47
+Satellites used: 6
+Speed: 4.5 m/s  (16.3 km/h)</description>
+            <Point id="446">
+                <coordinates>34.81328392387718,32.168746608558614,78.99838322456907</coordinates>
+                <altitudeMode>absolute</altitudeMode>
+            </Point>
+        </Placemark>
+        <Placemark id="449">
+            <name>15:21:48</name>
+            <description>UTC: 2026-03-21 15:21:48
+Satellites used: 6
+Speed: 7.6 m/s  (27.5 km/h)</description>
+            <Point id="448">
+                <coordinates>34.81333158881114,32.16875869937666,62.41618884833449</coordinates>
+                <altitudeMode>absolute</altitudeMode>
+            </Point>
+        </Placemark>
+        <Placemark id="451">
+            <name>15:21:49</name>
+            <description>UTC: 2026-03-21 15:21:49
+Satellites used: 6
+Speed: 6.4 m/s  (22.9 km/h)</description>
+            <Point id="450">
+                <coordinates>34.81321954707075,32.16882252149066,61.30438639774859</coordinates>
+                <altitudeMode>absolute</altitudeMode>
+            </Point>
+        </Placemark>
+        <Placemark id="453">
+            <name>15:21:50</name>
+            <description>UTC: 2026-03-21 15:21:50
+Satellites used: 6
+Speed: 6.7 m/s  (24.3 km/h)</description>
+            <Point id="452">
+                <coordinates>34.813140517622216,32.16888843394964,64.639644035773</coordinates>
+                <altitudeMode>absolute</altitudeMode>
+            </Point>
+        </Placemark>
+        <Placemark id="455">
+            <name>15:21:51</name>
+            <description>UTC: 2026-03-21 15:21:51
+Satellites used: 6
+Speed: 20.6 m/s  (74.0 km/h)</description>
+            <Point id="454">
+                <coordinates>34.81289637806171,32.16876669795888,107.42985694153666</coordinates>
+                <altitudeMode>absolute</altitudeMode>
+            </Point>
+        </Placemark>
+        <Placemark id="457">
+            <name>15:21:52</name>
+            <description>UTC: 2026-03-21 15:21:52
+Satellites used: 6
+Speed: 18.6 m/s  (67.0 km/h)</description>
+            <Point id="456">
+                <coordinates>34.813333004361226,32.16876726686261,42.81090584000859</coordinates>
+                <altitudeMode>absolute</altitudeMode>
+            </Point>
+        </Placemark>
+        <Placemark id="459">
+            <name>15:21:53</name>
+            <description>UTC: 2026-03-21 15:21:53
+Satellites used: 6
+Speed: 5.7 m/s  (20.4 km/h)</description>
+            <Point id="458">
+                <coordinates>34.81333543614436,32.16876678405321,65.60956647184202</coordinates>
+                <altitudeMode>absolute</altitudeMode>
+            </Point>
+        </Placemark>
+        <Placemark id="461">
+            <name>15:21:54</name>
+            <description>UTC: 2026-03-21 15:21:54
+Satellites used: 5
+Speed: 3.5 m/s  (12.6 km/h)</description>
+            <Point id="460">
+                <coordinates>34.81332282071668,32.16876741637787,71.35821630029848</coordinates>
+                <altitudeMode>absolute</altitudeMode>
+            </Point>
+        </Placemark>
+        <Placemark id="463">
+            <name>15:21:55</name>
+            <description>UTC: 2026-03-21 15:21:55
+Satellites used: 7
+Speed: 6.8 m/s  (24.6 km/h)</description>
+            <Point id="462">
+                <coordinates>34.81324046367468,32.168872938461156,55.59040349456358</coordinates>
+                <altitudeMode>absolute</altitudeMode>
+            </Point>
+        </Placemark>
+        <Placemark id="465">
+            <name>15:21:56</name>
+            <description>UTC: 2026-03-21 15:21:56
+Satellites used: 5
+Speed: 10.6 m/s  (38.3 km/h)</description>
+            <Point id="464">
+                <coordinates>34.81325950473004,32.16876996773261,37.135027610362755</coordinates>
+                <altitudeMode>absolute</altitudeMode>
+            </Point>
+        </Placemark>
+        <Placemark id="467">
+            <name>15:21:57</name>
+            <description>UTC: 2026-03-21 15:21:57
+Satellites used: 7
+Speed: 15.7 m/s  (56.4 km/h)</description>
+            <Point id="466">
+                <coordinates>34.8130860598244,32.168902787459004,86.32389674355036</coordinates>
+                <altitudeMode>absolute</altitudeMode>
+            </Point>
+        </Placemark>
+        <Placemark id="469">
+            <name>15:21:58</name>
+            <description>UTC: 2026-03-21 15:21:58
+Satellites used: 7
+Speed: 11.8 m/s  (42.5 km/h)</description>
+            <Point id="468">
+                <coordinates>34.813291905619444,32.168826144390586,94.13744935062242</coordinates>
+                <altitudeMode>absolute</altitudeMode>
+            </Point>
+        </Placemark>
+        <Placemark id="471">
+            <name>15:21:59</name>
+            <description>UTC: 2026-03-21 15:21:59
+Satellites used: 5
+Speed: 5.4 m/s  (19.5 km/h)</description>
+            <Point id="470">
+                <coordinates>34.81314680118438,32.168832175296366,88.30681058863787</coordinates>
+                <altitudeMode>absolute</altitudeMode>
+            </Point>
+        </Placemark>
+        <Placemark id="473">
+            <name>15:22:00</name>
+            <description>UTC: 2026-03-21 15:22:00
+Satellites used: 5
+Speed: 15.4 m/s  (55.5 km/h)</description>
+            <Point id="472">
+                <coordinates>34.8130460239351,32.16902088116255,110.86487514412849</coordinates>
+                <altitudeMode>absolute</altitudeMode>
+            </Point>
+        </Placemark>
+        <Placemark id="475">
+            <name>15:22:01</name>
+            <description>UTC: 2026-03-21 15:22:01
+Satellites used: 6
+Speed: 9.8 m/s  (35.5 km/h)</description>
+            <Point id="474">
+                <coordinates>34.813250103352985,32.16874008709622,81.38502267990621</coordinates>
+                <altitudeMode>absolute</altitudeMode>
+            </Point>
+        </Placemark>
+        <Placemark id="477">
+            <name>15:22:02</name>
+            <description>UTC: 2026-03-21 15:22:02
+Satellites used: 6
+Speed: 12.4 m/s  (44.8 km/h)</description>
+            <Point id="476">
+                <coordinates>34.81323471282748,32.16876590162062,59.03103380895524</coordinates>
+                <altitudeMode>absolute</altitudeMode>
+            </Point>
+        </Placemark>
+        <Placemark id="479">
+            <name>15:22:03</name>
+            <description>UTC: 2026-03-21 15:22:03
+Satellites used: 7
+Speed: 18.3 m/s  (66.0 km/h)</description>
+            <Point id="478">
+                <coordinates>34.81332508894324,32.16873750577835,33.19013959818209</coordinates>
+                <altitudeMode>absolute</altitudeMode>
+            </Point>
+        </Placemark>
+        <Placemark id="481">
+            <name>15:22:04</name>
+            <description>UTC: 2026-03-21 15:22:04
+Satellites used: 7
+Speed: 18.6 m/s  (66.8 km/h)</description>
+            <Point id="480">
+                <coordinates>34.8133561681872,32.168827436737566,104.38981058758485</coordinates>
+                <altitudeMode>absolute</altitudeMode>
+            </Point>
+        </Placemark>
+        <Placemark id="483">
+            <name>15:22:05</name>
+            <description>UTC: 2026-03-21 15:22:05
+Satellites used: 6
+Speed: 5.9 m/s  (21.3 km/h)</description>
+            <Point id="482">
+                <coordinates>34.81336349264235,32.16875584709259,89.68866530243523</coordinates>
+                <altitudeMode>absolute</altitudeMode>
+            </Point>
+        </Placemark>
+        <Placemark id="485">
+            <name>15:22:06</name>
+            <description>UTC: 2026-03-21 15:22:06
+Satellites used: 5
+Speed: 6.3 m/s  (22.6 km/h)</description>
+            <Point id="484">
+                <coordinates>34.81345726845998,32.16873075208229,75.18483113984854</coordinates>
+                <altitudeMode>absolute</altitudeMode>
+            </Point>
+        </Placemark>
+        <Placemark id="487">
+            <name>15:22:07</name>
+            <description>UTC: 2026-03-21 15:22:07
+Satellites used: 4
+Speed: 14.0 m/s  (50.5 km/h)</description>
+            <Point id="486">
+                <coordinates>34.813327855311236,32.168668657049516,46.27352157322304</coordinates>
+                <altitudeMode>absolute</altitudeMode>
+            </Point>
+        </Placemark>
+        <Placemark id="489">
+            <name>15:22:08</name>
+            <description>UTC: 2026-03-21 15:22:08
+Satellites used: 6
+Speed: 3.8 m/s  (13.5 km/h)</description>
+            <Point id="488">
+                <coordinates>34.81327085348174,32.16872794246184,70.93247414363766</coordinates>
+                <altitudeMode>absolute</altitudeMode>
+            </Point>
+        </Placemark>
+        <Placemark id="491">
+            <name>15:22:09</name>
+            <description>UTC: 2026-03-21 15:22:09
+Satellites used: 5
+Speed: 8.2 m/s  (29.6 km/h)</description>
+            <Point id="490">
+                <coordinates>34.8131574696792,32.1687621542894,80.89198422223292</coordinates>
+                <altitudeMode>absolute</altitudeMode>
+            </Point>
+        </Placemark>
+        <Placemark id="493">
+            <name>15:22:10</name>
+            <description>UTC: 2026-03-21 15:22:10
+Satellites used: 5
+Speed: 20.8 m/s  (74.7 km/h)</description>
+            <Point id="492">
+                <coordinates>34.81328315265248,32.168617395219954,23.199286834077732</coordinates>
+                <altitudeMode>absolute</altitudeMode>
+            </Point>
+        </Placemark>
+        <Placemark id="495">
+            <name>15:22:11</name>
+            <description>UTC: 2026-03-21 15:22:11
+Satellites used: 5
+Speed: 25.3 m/s  (91.0 km/h)</description>
+            <Point id="494">
+                <coordinates>34.81311316584993,32.168300078784554,9.546001858064775</coordinates>
+                <altitudeMode>absolute</altitudeMode>
+            </Point>
+        </Placemark>
+        <Placemark id="497">
+            <name>15:22:12</name>
+            <description>UTC: 2026-03-21 15:22:12
+Satellites used: 5
+Speed: 21.6 m/s  (77.8 km/h)</description>
+            <Point id="496">
+                <coordinates>34.8134445391752,32.1683417016233,-8.460366360310049</coordinates>
+                <altitudeMode>absolute</altitudeMode>
+            </Point>
+        </Placemark>
+        <Placemark id="499">
+            <name>15:22:13</name>
+            <description>UTC: 2026-03-21 15:22:13
+Satellites used: 5
+Speed: 4.7 m/s  (16.9 km/h)</description>
+            <Point id="498">
+                <coordinates>34.81339061978198,32.168503825582796,11.776518809006804</coordinates>
+                <altitudeMode>absolute</altitudeMode>
+            </Point>
+        </Placemark>
+        <Placemark id="501">
+            <name>15:22:14</name>
+            <description>UTC: 2026-03-21 15:22:14
+Satellites used: 5
+Speed: 26.7 m/s  (96.3 km/h)</description>
+            <Point id="500">
+                <coordinates>34.81316513697102,32.16859293489222,79.10399943317859</coordinates>
+                <altitudeMode>absolute</altitudeMode>
+            </Point>
+        </Placemark>
+        <Placemark id="503">
+            <name>15:22:15</name>
+            <description>UTC: 2026-03-21 15:22:15
+Satellites used: 5
+Speed: 7.8 m/s  (28.1 km/h)</description>
+            <Point id="502">
+                <coordinates>34.813339577733935,32.16865603129226,51.74898101319741</coordinates>
+                <altitudeMode>absolute</altitudeMode>
+            </Point>
+        </Placemark>
+        <Placemark id="505">
+            <name>15:22:16</name>
+            <description>UTC: 2026-03-21 15:22:16
+Satellites used: 5
+Speed: 4.9 m/s  (17.6 km/h)</description>
+            <Point id="504">
+                <coordinates>34.81324554901118,32.168547931853,56.08321813910745</coordinates>
+                <altitudeMode>absolute</altitudeMode>
+            </Point>
+        </Placemark>
+        <Placemark id="507">
+            <name>15:22:17</name>
+            <description>UTC: 2026-03-21 15:22:17
+Satellites used: 5
+Speed: 7.6 m/s  (27.2 km/h)</description>
+            <Point id="506">
+                <coordinates>34.8132380309039,32.16848237784085,33.4448147161211</coordinates>
+                <altitudeMode>absolute</altitudeMode>
+            </Point>
+        </Placemark>
+        <Placemark id="509">
+            <name>15:22:18</name>
+            <description>UTC: 2026-03-21 15:22:18
+Satellites used: 5
+Speed: 4.0 m/s  (14.4 km/h)</description>
+            <Point id="508">
+                <coordinates>34.81324406282832,32.168537445098984,52.991033863058824</coordinates>
+                <altitudeMode>absolute</altitudeMode>
+            </Point>
+        </Placemark>
+        <Placemark id="511">
+            <name>15:22:19</name>
+            <description>UTC: 2026-03-21 15:22:19
+Satellites used: 6
+Speed: 17.4 m/s  (62.7 km/h)</description>
+            <Point id="510">
+                <coordinates>34.81314524996426,32.168679893015,86.19761914519619</coordinates>
+                <altitudeMode>absolute</altitudeMode>
+            </Point>
+        </Placemark>
+        <Placemark id="513">
+            <name>15:22:20</name>
+            <description>UTC: 2026-03-21 15:22:20
+Satellites used: 6
+Speed: 19.3 m/s  (69.4 km/h)</description>
+            <Point id="512">
+                <coordinates>34.81319618529418,32.168490304370714,15.923892722913415</coordinates>
+                <altitudeMode>absolute</altitudeMode>
+            </Point>
+        </Placemark>
+        <Placemark id="515">
+            <name>15:22:21</name>
+            <description>UTC: 2026-03-21 15:22:21
+Satellites used: 6
+Speed: 7.7 m/s  (27.8 km/h)</description>
+            <Point id="514">
+                <coordinates>34.813217446351175,32.168562132000666,63.207591771205664</coordinates>
+                <altitudeMode>absolute</altitudeMode>
+            </Point>
+        </Placemark>
+        <Placemark id="517">
+            <name>15:22:22</name>
+            <description>UTC: 2026-03-21 15:22:22
+Satellites used: 6
+Speed: 7.1 m/s  (25.4 km/h)</description>
+            <Point id="516">
+                <coordinates>34.81334590890032,32.168460650132815,45.75929546988769</coordinates>
+                <altitudeMode>absolute</altitudeMode>
+            </Point>
+        </Placemark>
+        <Placemark id="519">
+            <name>15:22:23</name>
+            <description>UTC: 2026-03-21 15:22:23
+Satellites used: 6
+Speed: 13.3 m/s  (47.9 km/h)</description>
+            <Point id="518">
+                <coordinates>34.813206292400494,32.16858564350283,81.23432304770758</coordinates>
+                <altitudeMode>absolute</altitudeMode>
+            </Point>
+        </Placemark>
+        <Placemark id="521">
+            <name>15:22:24</name>
+            <description>UTC: 2026-03-21 15:22:24
+Satellites used: 4
+Speed: 4.4 m/s  (15.8 km/h)</description>
+            <Point id="520">
+                <coordinates>34.81330254580546,32.16857842611927,70.61546432376187</coordinates>
+                <altitudeMode>absolute</altitudeMode>
+            </Point>
+        </Placemark>
+        <Placemark id="523">
+            <name>15:22:25</name>
+            <description>UTC: 2026-03-21 15:22:25
+Satellites used: 6
+Speed: 9.6 m/s  (34.4 km/h)</description>
+            <Point id="522">
+                <coordinates>34.813083481219294,32.16843965529699,55.39621173318186</coordinates>
+                <altitudeMode>absolute</altitudeMode>
+            </Point>
+        </Placemark>
+        <Placemark id="525">
+            <name>15:22:26</name>
+            <description>UTC: 2026-03-21 15:22:26
+Satellites used: 5
+Speed: 3.7 m/s  (13.4 km/h)</description>
+            <Point id="524">
+                <coordinates>34.81316397887062,32.16852234767897,52.64075469954836</coordinates>
+                <altitudeMode>absolute</altitudeMode>
+            </Point>
+        </Placemark>
+        <Placemark id="527">
+            <name>15:22:31</name>
+            <description>UTC: 2026-03-21 15:22:31
+Satellites used: 4
+Speed: 0.0 m/s  (0.0 km/h)</description>
+            <Point id="526">
+                <coordinates>34.81350814672098,32.16832085076331,10.687912771086648</coordinates>
+                <altitudeMode>absolute</altitudeMode>
+            </Point>
+        </Placemark>
+        <Placemark id="529">
+            <name>15:22:32</name>
+            <description>UTC: 2026-03-21 15:22:32
+Satellites used: 5
+Speed: 10.6 m/s  (38.3 km/h)</description>
+            <Point id="528">
+                <coordinates>34.8135386018198,32.16853583302968,-0.6769220303941046</coordinates>
+                <altitudeMode>absolute</altitudeMode>
+            </Point>
+        </Placemark>
+        <Placemark id="531">
+            <name>15:22:34</name>
+            <description>UTC: 2026-03-21 15:22:34
+Satellites used: 4
+Speed: 0.0 m/s  (0.0 km/h)</description>
+            <Point id="530">
+                <coordinates>34.81313073040888,32.16878548413273,259.204318270874</coordinates>
+                <altitudeMode>absolute</altitudeMode>
+            </Point>
+        </Placemark>
+        <Placemark id="533">
+            <name>15:22:36</name>
+            <description>UTC: 2026-03-21 15:22:36
+Satellites used: 5
+Speed: 29.9 m/s  (107.7 km/h)</description>
+            <Point id="532">
+                <coordinates>34.81334823510362,32.168668476574695,111.63029282263054</coordinates>
+                <altitudeMode>absolute</altitudeMode>
+            </Point>
+        </Placemark>
+        <Placemark id="535">
+            <name>Offline GNSS Path</name>
+            <styleUrl>#536</styleUrl>
+            <LineString id="534">
+                <extrude>0</extrude>
+                <altitudeMode>absolute</altitudeMode>
+                <coordinates>34.81315960404318,32.16886575602504,86.5311263770873 34.81310359702675,32.16872228982011,87.35204507701619 34.8132739911183,32.16883180616522,54.24715062295756 34.813203937750714,32.168803161102716,57.424789429065726 34.813203529411595,32.1687496059145,47.88670861251603 34.81309978836618,32.16867387620766,19.693480779189276 34.81304800516455,32.16871137856444,53.327313258494414 34.81308942183279,32.1687836697119,60.82711815615466 34.81292221781881,32.16889003952043,45.00312925203564 34.81290984609668,32.16888092369795,44.98528861844324 34.812871319787234,32.1687543895243,41.810083099587004 34.81284601961971,32.16887165461943,34.89400001066714 34.812648134835506,32.168626817224904,7.4070795684426995 34.8126642934116,32.1687878029279,41.30240943277588 34.81261682730702,32.168929978289256,49.0307616443008 34.812445436037684,32.16867087367248,24.344449116986173 34.81242763142129,32.16892417603574,58.70804714118045 34.81234657267469,32.16890733725583,69.32718149344306 34.81208385557126,32.16862070505499,4.591315406334162 34.81235897280412,32.16874495891846,45.9172139120083 34.81214795715768,32.1688956555474,72.94772438814775 34.811901949285215,32.168675846516685,36.47176724296996 34.8118920685015,32.16871730961415,34.340398482335736 34.811869390543706,32.16886267383136,46.26037957855977 34.81182171594736,32.16892171958092,56.22408526203938 34.81179756308972,32.16896278462242,72.26552116518648 34.811826815655095,32.168913263947395,51.971110992922775 34.811824603464906,32.168915288980756,59.830284083462615 34.81185098987989,32.168964454139086,72.03067548662207 34.811912289116584,32.16903168877728,71.23704133734337 34.81186548175128,32.168977501135615,46.20797600094338 34.8119158766833,32.1690637401979,38.47917124699311 34.81187259533823,32.16902678711782,34.82635078122112 34.81185365833238,32.16913044606319,53.76593055382514 34.812023189323945,32.16919919004987,62.664937373421004 34.81193011647614,32.16921684918514,40.01595979885401 34.811958845064005,32.16931348630494,63.3174522022417 34.81207089453459,32.16928343865657,40.43844179884874 34.81207712514964,32.1693237181122,34.327144355229365 34.812030064470896,32.16956487463412,73.26775399464287 34.81218498091808,32.16961110262556,72.98996435184729 34.812176518519166,32.16965586801694,51.781876273796904 34.81220551631347,32.169644128664714,40.99158395621052 34.81232886054224,32.16981023043675,54.13823006383904 34.81236294372654,32.169857368807904,56.34394472651142 34.81244148824081,32.1700456786926,71.34978316562454 34.81238821626896,32.16999210481384,43.706706390207515 34.812331585699525,32.17001154913384,28.2798833569726 34.812335226314744,32.17010536342526,25.625605304999517 34.81246649567335,32.1701662477555,35.807153911398075 34.812468844403334,32.17028437115997,38.999404933715866 34.81244756828709,32.17044278957214,81.74884773403777 34.81252941891171,32.17038300226617,27.799547863290552 34.81259576152884,32.170465753663066,35.385602968821814 34.81261185244854,32.17053424540759,41.276423309131886 34.812632741967796,32.170609624162616,28.230862330658237 34.812694405355764,32.17076707760229,62.75971191174002 34.81272436297244,32.17081029141129,66.0094332139753 34.81272830053261,32.170806823517744,28.484004622584468 34.81297521049226,32.17133289548068,126.09682763796474 34.81290908551706,32.17105274878582,63.96627815349043 34.81299480569668,32.171069805532376,56.86638929181637 34.812856995438686,32.171241879224574,67.86350605467926 34.81289603292668,32.17135181056197,66.87702864140172 34.813062828735205,32.17148091155869,84.24250075388932 34.812744981072576,32.17153092111314,87.95616194331092 34.8129072805766,32.171366670442836,42.08323215619902 34.812763686628365,32.171613455016946,70.43524328556627 34.81288229929042,32.171669863911774,53.630354362286376 34.81282077650084,32.17186641439303,82.17019336714624 34.812880300256396,32.17185551339635,67.26223459727464 34.81297017508567,32.17178439094689,45.84527060813659 34.81291564604064,32.171967069957255,57.45323727677169 34.812861015384804,32.17200035988083,54.98859565959568 34.81301214943383,32.171969297755325,41.62209456158772 34.81315839729319,32.172136068369454,68.54723795199557 34.81298962210658,32.17213726331373,64.94407071184136 34.813034869342545,32.17218683041836,52.011303380963035 34.81308705474063,32.17226348418755,55.869422515356376 34.813050496610344,32.172304141281,51.845333278855236 34.81312952655516,32.1723510514887,51.95367743962539 34.8130803338983,32.172368990806035,45.03962995408535 34.81302878048705,32.17238461716961,54.10482817383876 34.81303081591891,32.17247345235093,58.0292486762322 34.81296876248711,32.17252986551644,64.60138121817135 34.81298637981421,32.172473880076076,52.94935666789261 34.812892795081595,32.17251525058219,56.36836424631514 34.812988899462766,32.17258410224494,57.06266985933768 34.8128158002244,32.172430280223146,40.525314386566286 34.812744323068884,32.17246428651766,61.46387047334222 34.81270208940724,32.172649679670705,60.76403494759429 34.81266465616549,32.17258109643772,55.74144508407197 34.81267925359421,32.1725618021865,51.06727126173492 34.81247856511397,32.172434629436125,29.8312963699538 34.81246751863244,32.172617381877295,57.54105280661695 34.81247396334208,32.17267712973068,58.2708633347258 34.812347011746255,32.17260513317576,50.967768249261596 34.81225316887926,32.172590574595624,58.664913304658675 34.81220133063426,32.17257560863505,60.29631321370767 34.81215096904341,32.172623450061245,52.04403535558851 34.81221022983792,32.17259031237084,54.99379103263618 34.812073537845386,32.1725433715529,34.35494822581993 34.812078703428405,32.17254496185518,58.85251834955258 34.812067358656115,32.172485731403505,60.05184257944732 34.812130310971554,32.17247588546496,48.43194910424934 34.812205059177224,32.172375318677965,51.129161703304646 34.812119348414654,32.17241292104889,39.41152483437203 34.81199466858887,32.17232953218335,69.99665239800481 34.812058806071256,32.17227694434612,56.57469297122011 34.812018505467805,32.17229362592895,51.891301289703115 34.81205919903145,32.172159709559025,59.35606949550375 34.81191139424991,32.17215987744472,55.92989017677494 34.811971238089995,32.17215488445715,44.21136899422757 34.811924114254424,32.17200425147412,65.9797690097384 34.81199971049132,32.17201924350007,46.83109145133453 34.81192518256461,32.17194172320785,60.781840892837614 34.81180152792352,32.17191035743637,58.36243560381197 34.811879281754074,32.17191046736494,34.371706853175574 34.81174591625221,32.1718521145955,50.38806920633626 34.811882248264105,32.17174477132498,43.72189002221517 34.811676428049246,32.171613031991754,76.09339269926329 34.81158410317849,32.17148461986091,102.69007390358153 34.811720629014836,32.17149199698879,64.0189477031723 34.8117774255204,32.171485060963775,48.007085453915415 34.81170586428492,32.171515675587735,31.63542090556235 34.81176920804883,32.171481944124785,28.961765435327454 34.811599390206744,32.171278669239285,65.55654906770937 34.81157587878759,32.17124825041954,60.45732443524059 34.81151282889696,32.1711778809597,58.122203671542344 34.81160932714528,32.171117811779,44.59075916259116 34.8114662962567,32.17098864033966,64.79320460839524 34.81144271534801,32.171025444629905,48.800572136604366 34.81139794979817,32.170852754396385,71.19423732504981 34.81137840623491,32.1708928874307,40.61400292744971 34.81134806117753,32.17080489906516,51.11581237418966 34.81135340973042,32.17071666018929,56.59629712254271 34.81124584913481,32.17059817585235,67.24496346673385 34.81106546683567,32.170592437386865,80.90982065668854 34.81116450580635,32.17057462068437,54.30499814190297 34.811224114714115,32.17050102930523,50.2872914843805 34.81113137990282,32.170397316071714,53.30376568041392 34.81114098407516,32.170341001618795,71.26939044153283 34.81113996404494,32.17028449149483,43.125586895208876 34.81121148480448,32.17016326223561,36.08925692990465 34.81102851497436,32.17016463488464,52.53976042259594 34.810935854360416,32.17007902187591,61.84961699524266 34.810936809888446,32.170068942935416,52.00116970955738 34.811037300011584,32.16998790807589,47.28321949756291 34.810973934486356,32.16992794009139,40.269796687584574 34.81096168869364,32.16987476311687,41.11524465728604 34.81087566183485,32.16979456409855,55.07020583610176 34.810762037549,32.169702103649605,58.13954533319089 34.81089533317046,32.16963312990491,42.601368680000256 34.81068693662312,32.16964796894408,43.04062018157388 34.8107993382113,32.16950438420978,45.44928519172524 34.81057028214449,32.16937174996338,77.83992783448177 34.810737516535646,32.169368087527324,45.30620948534803 34.81053776330847,32.16920324260823,80.96269766628124 34.81067528805224,32.16926100516652,41.44822580585309 34.81048459807276,32.16924276113926,83.06550655962295 34.810594931581285,32.1690656078735,49.78154537211956 34.81044978320822,32.16895734407289,78.73886901882062 34.810363137289634,32.16890020166295,64.15755710350675 34.81052235403222,32.168884095865124,54.264962440149034 34.8105570083115,32.168850375967274,42.23882326964061 34.81036844223838,32.168789745539115,76.77423669512639 34.81053939543488,32.16878279864498,52.00675012240299 34.810579726398906,32.16868476821251,62.98114927681258 34.81060882759381,32.1686552125549,47.37763202800625 34.81061585457609,32.16872301351824,40.83654645039107 34.81092342067936,32.16879921411911,72.15978496688207 34.81094642445664,32.168702217235435,55.34730154425706 34.81087076290617,32.16873259664861,50.922060207810404 34.81102057149917,32.168833019007764,49.96447659511159 34.81120199208646,32.16883239713672,49.58902446876663 34.811245439909776,32.16877571685257,40.640380338543196 34.811369337712875,32.168762112349874,36.272310819407444 34.81140833242124,32.16872275063536,35.78601010149268 34.81146233142647,32.16880259733503,44.8138954044486 34.81156277030688,32.168894735166205,46.90163552111033 34.811565450476245,32.1687883903563,44.37978338734539 34.81158436696032,32.168695132272696,22.73293386461001 34.81166542459563,32.16884704945419,46.53027034383788 34.81170959322991,32.16883051378576,41.219699148233666 34.81175208226869,32.16889204863093,48.973896036121 34.81178288182688,32.1688558919128,40.97929013157698 34.81181089765999,32.16888115544152,46.71432174225953 34.81185224004155,32.168905840762825,47.92714098818135 34.811873895425315,32.16885590994743,48.836431454797975 34.8120083899767,32.16896827120959,49.443625187270676 34.81205863938483,32.16893308350488,53.98168407324964 34.812225914545024,32.16887406875002,68.27257626064412 34.8123268633928,32.16888805860421,71.07605586235272 34.81230155288041,32.16884526771491,56.63654559199067 34.812460753712045,32.168891381844496,70.90128853470219 34.81248292016109,32.1688663728829,61.133866310661624 34.812510485369195,32.168879583536985,50.3050249648202 34.81260869966918,32.16897345274697,61.78144612486436 34.81262657542047,32.1688456545779,47.806502044981514 34.81265660977529,32.168887732823606,44.358432607677365 34.81277026702417,32.16886993123335,47.31354509592599 34.8128340114387,32.16885911468014,45.42073608757031 34.81294946764848,32.16884064345711,45.94868077965019 34.81282237567309,32.16883390436471,29.274734595587166 34.812946839049374,32.16879340419254,47.22297039094628 34.81299256199948,32.16877522541176,61.75193285761538 34.81305114117168,32.1688621513351,53.10317792886956 34.81316600737123,32.16878685146546,60.481688780264236 34.81313615258037,32.16887300522294,85.48102150719274 34.81329904520584,32.16882199526572,62.095235496714714 34.81317974680784,32.16876137122069,54.46914777575855 34.813250196849935,32.168816129203194,57.302097181528794 34.813506223329334,32.16886072159835,107.09467471512575 34.813488517520796,32.16881080102378,82.45999056380185 34.81328222978565,32.16870986346001,-6.866859459999737 34.81331686872095,32.16880590549194,63.458584037522904 34.813281140038264,32.16875679895979,100.26123008623432 34.813318796416645,32.16894728770942,91.08283491952795 34.81326771372545,32.168828163660976,64.9345077924486 34.81327075211747,32.16886807540265,108.55359259895394 34.81345113321443,32.168762764225185,68.75231647830317 34.813291895236326,32.16887120074143,84.92518667002922 34.81328392387718,32.168746608558614,78.99838322456907 34.81333158881114,32.16875869937666,62.41618884833449 34.81321954707075,32.16882252149066,61.30438639774859 34.813140517622216,32.16888843394964,64.639644035773 34.81289637806171,32.16876669795888,107.42985694153666 34.813333004361226,32.16876726686261,42.81090584000859 34.81333543614436,32.16876678405321,65.60956647184202 34.81332282071668,32.16876741637787,71.35821630029848 34.81324046367468,32.168872938461156,55.59040349456358 34.81325950473004,32.16876996773261,37.135027610362755 34.8130860598244,32.168902787459004,86.32389674355036 34.813291905619444,32.168826144390586,94.13744935062242 34.81314680118438,32.168832175296366,88.30681058863787 34.8130460239351,32.16902088116255,110.86487514412849 34.813250103352985,32.16874008709622,81.38502267990621 34.81323471282748,32.16876590162062,59.03103380895524 34.81332508894324,32.16873750577835,33.19013959818209 34.8133561681872,32.168827436737566,104.38981058758485 34.81336349264235,32.16875584709259,89.68866530243523 34.81345726845998,32.16873075208229,75.18483113984854 34.813327855311236,32.168668657049516,46.27352157322304 34.81327085348174,32.16872794246184,70.93247414363766 34.8131574696792,32.1687621542894,80.89198422223292 34.81328315265248,32.168617395219954,23.199286834077732 34.81311316584993,32.168300078784554,9.546001858064775 34.8134445391752,32.1683417016233,-8.460366360310049 34.81339061978198,32.168503825582796,11.776518809006804 34.81316513697102,32.16859293489222,79.10399943317859 34.813339577733935,32.16865603129226,51.74898101319741 34.81324554901118,32.168547931853,56.08321813910745 34.8132380309039,32.16848237784085,33.4448147161211 34.81324406282832,32.168537445098984,52.991033863058824 34.81314524996426,32.168679893015,86.19761914519619 34.81319618529418,32.168490304370714,15.923892722913415 34.813217446351175,32.168562132000666,63.207591771205664 34.81334590890032,32.168460650132815,45.75929546988769 34.813206292400494,32.16858564350283,81.23432304770758 34.81330254580546,32.16857842611927,70.61546432376187 34.813083481219294,32.16843965529699,55.39621173318186 34.81316397887062,32.16852234767897,52.64075469954836 34.81350814672098,32.16832085076331,10.687912771086648 34.8135386018198,32.16853583302968,-0.6769220303941046 34.81313073040888,32.16878548413273,259.204318270874 34.81334823510362,32.168668476574695,111.63029282263054</coordinates>
+            </LineString>
+        </Placemark>
+    </Document>
+</kml>
